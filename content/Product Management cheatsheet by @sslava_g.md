@@ -4,8 +4,6 @@
 Исследования
 - [x] https://devcrowd.ru/pm24/11/
 
-
-
 Рост
 - [x] https://www.youtube.com/watch?v=L88RuMLMP50
 	- чтобы расти, надо брать больше ответственности и идти туда, где страшно
@@ -328,13 +326,8 @@ The first four rules came about as an over-blown reaction to the dot-com crash. 
 It’s all about pushing through. Oh and celebrate each small victory like hell. It feels 100x better at 0-to-1.
 
 ---
-#### Product Brief Template
-```embed
-title: "Product Brief Template (ML)"
-image: "https://lh7-us.googleusercontent.com/docs/AHkbwyIYI6tmqdT89S5muc0tv23mm5TJKxtY9tXYr3fjqAUD8XxDSVDb88-ZqnRul2bEp7ynVz2E42vtYIiRkKHaNP7LPv46p1W7CUrDNIa8ihJoM0N_FGsm=w1200-h630-p"
-description: "Deviled Eggs PRD ++ What is it? [One-sentence] Federal Donuts should start selling deviled eggs for breakfast. What it is What it isn’t How big is it? Add deviled eggs to existing menu of chicken and donuts 3 flavors at a time, reusing spice mixes that Zahav (parent company) is well know…"
-url: "https://docs.google.com/document/d/17F_LG-nTS2599oImKMUvjBCAPuf98-CmzgRPa6B38U0/edit?tab=t.0#heading=h.ym1lawmciike"
-```
+#### [Product Brief Template](https://docs.google.com/document/d/17F_LG-nTS2599oImKMUvjBCAPuf98-CmzgRPa6B38U0/edit?tab=t.0#heading=h.ym1lawmciike)
+
 The product brief covers what it is (and what it isn’t), why you’re building it, and what success looks like. As you shape an idea, it helps you make smarter go/no-go decisions. Once you’ve committed, it provides context and focus for the broader team.
 
 - Starting today, write a product brief for every idea you spend more than 15 minutes considering or planning. When you’re 75% done, ask 2–3 teammates review it, representing these perspectives: tech lead, UX design, sales/partnerships.
@@ -343,13 +336,7 @@ The product brief covers what it is (and what it isn’t), why you’re building
 - Once you’ve committed to a project, but before any work begins, share its product brief far and wide. Designers will have better context for designing experiences and creating assets. Engineers will have more understanding and motivation for getting this done, and be able to make smarter tradeoffs. Sales and marketing will be able to create accurate buzz.
 
 ---
-#### Internal Roadmap Template
-```embed
-title: "Startup Roadmap Template - Michelle Lee"
-image: "https://lh7-us.googleusercontent.com/docs/AHkbwyLe93L2pNYVMZI3ApqK_6-0Vz64avbqyi2HTeJuIWKr-DlZHH2avdeNuqWCR6OMAmneVNXN56dbcHwSQcb630XxykeEYE_cAececH7dMrJ4leI-_lI4=w1200-h630-p"
-description: "1"
-url: "https://docs.google.com/spreadsheets/d/1tHFetyy0p-GxUwsHIr8OtCu_cSdf5fzkHlp2WrCq6VE/edit?gid=0#gid=0"
-```
+#### [Internal Roadmap Template](https://docs.google.com/spreadsheets/d/1tHFetyy0p-GxUwsHIr8OtCu_cSdf5fzkHlp2WrCq6VE/edit?gid=0#gid=0)
 The roadmap document shows the current state of development plans for the next 3–6 months. This type of roadmap is not for sharing to customers or executives. Its purpose is to improve your internal work and estimates.
 
 ---
@@ -365,14 +352,6 @@ The strategy doc covers market, data, personas, critical needs, and what you’r
 What separates a good strategy doc from a great one? Like a great story, a great strategy doc will intrigue and delight _(amazing opportunity right now, let’s go!)_, or shock and dismay _(we’re doomed but here’s how we’ll fix it)_. Make this story interesting by digging deep into your facts, assumptions, and beliefs. Often, the writing process will uncover new insights.
 
 ---
-
-```embed
-title: "The 4 Stages of 0->1 Products"
-image: "https://miro.medium.com/v2/resize:fill:304:304/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156"
-description: "This was first published on my mailing list The Looking Glass. Every week, I answer a reader’s question."
-url: "https://medium.com/the-year-of-the-looking-glass/the-4-stages-of-0-1-products-cdb8236dbf66"
-```
-
 #### The 4 Stages of 0->1 Products
 ###### Stage 1: Define your People Outcomes
 - Identify the People Problem you’re trying to solve
@@ -659,25 +638,7 @@ In the [Lotus Blossom](https://toolkits.dss.cloud/design/method-card/lotus-blos
 >[!Что]
 >Оценка удобства использования, эффективности и результативности продукта.
 
-```embed
-title: "Чек-лист юзабилити сайта: 210 пунктов – Plerdy"
-image: "https://www.plerdy.com/wp-content/themes/twentytwenty/images/icons/plerdy-logo-black.svg"
-description: "Чек-лист юзабилити сайтa Создание веб-сайта является сложной задачей, но обеспечение удобства для пользователей - это совсем другая и постоянная задач…"
-url: "https://www.plerdy.com/ru/usability-testing-website-checklist/"
-```
-```embed
-title: "Checklist Design - A collection of the best design practices."
-image: "https://cdn.prod.website-files.com/5ba4b3c973b5d218459f7e6f/5f36037991336f1f2a8bf938_checklist-3-thumbnail.jpg"
-description: "Checklist Design is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets."
-url: "https://www.checklist.design"
-```
-```embed
-title: "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases."
-image: "https://www.notion.so/images/meta/default.png"
-description: "A new tool that blends your everyday work apps into one. It’s the all-in-one workspace for you and your team"
-url: "https://fulcrumrocks.notion.site/UX-audit-checklist-templates-4bdad2f26cef4320b15367e7eadb9aab"
-```
-
+[Чек-лист юзабилити продукта](https://www.plerdy.com/ru/usability-testing-website-checklist/)
 ### Pivot продукта
 - **Увеличение**. Фича становится отдельным продуктом
 - **Уменьшение**. Продукт становится фичой
@@ -768,14 +729,7 @@ url: "https://fulcrumrocks.notion.site/UX-audit-checklist-templates-4bdad2f26cef
     
 78. Выписать рекомендации по развитию бизнеса, составить план по внедрению.
 
-Template by Hubspot
-```embed
-title: "Google Sheets: Sign-in"
-image: "https://www.google.com/favicon.ico"
-description: "Access Google Sheets with a personal Google account or Google Workspace account (for business use)."
-url: "https://docs.google.com/spreadsheets/d/1MWA-Bv_cl4iwURWKImXHCnOAonawCaJXsjcACH22YmA/edit?gid=477838995#gid=477838995"
-```
-
+[Copy of 10 Competitive Analysis Templates – HubSpot ](https://docs.google.com/spreadsheets/d/1MWA-Bv_cl4iwURWKImXHCnOAonawCaJXsjcACH22YmA/edit?gid=477838995#gid=477838995)
 
 
 | **Source**                   | **Potential learnings**                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -1216,12 +1170,7 @@ Observer bias is particularly likely to occur in [observational studies](https:
 - **[Undercoverage bias](https://www.scribbr.com/research-bias/undercoverage-bias/)** occurs when some members of your population are not represented in the sample. It is common in [convenience sampling](https://www.scribbr.com/methodology/convenience-sampling/), where you recruit a sample that’s easy to obtain.
 
 ### Анализ рынка
-```embed
-title: "Market Research Brief - Free Template & Example - Milanote"
-image: "https://images.milanote.com/milanote/41c0d6a9-e9cc-4e99-9418-b38af191b633_Market-research-brief-example.png?auto=compress%2Cformat&w=1140"
-description: "The perfect start to a market research project. The goal of any marketing research brief is to define the objectives in a way that a researcher can confidently build an appropriate study. This clarity will then lead to the ‘right’ research method used and consequent insights uncovered."
-url: "https://milanote.com/templates/creative-brief-templates/market-research-brief"
-```
+[Market Research Brief Template](https://milanote.com/templates/creative-briefs/market-research-brief)
 
 #### Где брать данные для анализа рынка
 ![8 способов, как оценить ёмкость рынка вашего стартапа](https://leonardo.osnova.io/989bac27-5091-5d79-835a-746d44a3b323/-/preview/592x/)
@@ -2384,14 +2333,7 @@ _"Помочь людям вести здоровый образ жизни, н�
 ### Business Model Canvas
 ![[./content/Pasted image 20250208182243.png]]
 
-55 Популярных бизнес моделей
-
-```embed
-title: "55 бизнес-моделей"
-image: "https://lh7-us.googleusercontent.com/docs/AHkbwyISBDIVurHsmFF1Ks3O-8jCTDepixEneolcGBMN7W-4WxYJXsKZI_ZiEZM341V3wmGI86mxvH6dS5WX6Livef9-un-om0zv1PwKngfY0BV9EpI7mqYv=w1200-h630-p"
-description: ""
-url: "https://docs.google.com/spreadsheets/d/10BvW2kimNCfPXRBLgnfrgysOUdJGQuoKQypmrv0y9YM/edit?gid=0#gid=0"
-```
+[55 Популярных бизнес моделей](https://docs.google.com/spreadsheets/d/10BvW2kimNCfPXRBLgnfrgysOUdJGQuoKQypmrv0y9YM/edit?gid=0#gid=0)
 
 Многие истории успеха начинались с инновационной бизнес-модели, а не с превосходного продукта:
 - Amazon - стало крупнейшим интернет-магазином в мире, не имея ни одного традиционного магазина
@@ -2433,12 +2375,7 @@ url: "https://docs.google.com/spreadsheets/d/10BvW2kimNCfPXRBLgnfrgysOUdJGQuoKQy
 - Отсутствие альтернатив
 - Отсутствие осознанности, жизнь в «волшебном мире»
 
-```embed
-title: ""
-image: "https://businessmodelnavigator.com/img/bmn.svg"
-description: "Participate in our survey & stand the chance to win a FREE Pattern-Card Set, a Testing-Card Set and a Circular Economy-Pattern Card Set!"
-url: "https://businessmodelnavigator.com"
-```
+[Business model navigator](https://businessmodelnavigator.com)
 
 [Онтология Бизнес-моделей](https://drive.google.com/file/d/1HJM2XtsL7lGBTyRlw38YDmKFMcFH_HJ_/view)
 
