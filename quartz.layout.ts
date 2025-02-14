@@ -34,7 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.Search()),
     Component.Backlinks(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({folderDefaultState: "open"})),
   ],
 };
 
