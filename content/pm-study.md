@@ -6,24 +6,24 @@ title: Product Management Cheetsheat
 # Ресурсы📕
 
 Исследования
-- [x] https://devcrowd.ru/pm24/11/
+-  https://devcrowd.ru/pm24/11/
 
 Рост
-- [x] https://www.youtube.com/watch?v=L88RuMLMP50
+-  https://www.youtube.com/watch?v=L88RuMLMP50
 	- чтобы расти, надо брать больше ответственности и идти туда, где страшно
 	- мыслить стратегией, потом методами и инструментами
 
 Подкасты
-- [ ] https://sense23.com/podcast/make-sense-205-ob-assotsiativnyh-kartah-budushhego-strategicheskom-menedzhmente-gorizontah-planirovaniya-i-trendah
+-  https://sense23.com/podcast/make-sense-205-ob-assotsiativnyh-kartah-budushhego-strategicheskom-menedzhmente-gorizontah-planirovaniya-i-trendah
 
 Статьи
-- [ ] https://www.geeksforgeeks.org/product-management/?ysclid=m5qqy2pxix948502892
-- [x] https://habr.com/ru/companies/avito/articles/589169/
-- [x] https://habr.com/ru/companies/vk/articles/405759/
-- [x] https://habr.com/ru/companies/sberbank/articles/584982/
-- [x] https://habr.com/ru/articles/560874/
-- [x] https://habr.com/ru/articles/560850/
-- [x] https://practicum.yandex.ru/blog/kto-takoy-product-manager/#kto-takoy
+-  https://www.geeksforgeeks.org/product-management/?ysclid=m5qqy2pxix948502892
+-  https://habr.com/ru/companies/avito/articles/589169/
+-  https://habr.com/ru/companies/vk/articles/405759/
+-  https://habr.com/ru/companies/sberbank/articles/584982/
+-  https://habr.com/ru/articles/560874/
+-  https://habr.com/ru/articles/560850/
+-  https://practicum.yandex.ru/blog/kto-takoy-product-manager/#kto-takoy
 
 Ресурсы
 - https://product-map.ru
@@ -42,8 +42,6 @@ title: Product Management Cheetsheat
 
 
 Курсы
-- https://cloud.mail.ru/public/418u/2aUiF9pnA
-- https://cloud.mail.ru/public/U4WJ/XpnhW5rcT
 - https://startinfinity.com/product-management-framework
 - https://gopractice.ru/course/pm/ (платное)
 
