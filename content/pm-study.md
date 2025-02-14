@@ -1,4 +1,8 @@
 
+---
+title: Product Management Cheetsheat
+---
+
 # Ресурсы📕
 
 Исследования
