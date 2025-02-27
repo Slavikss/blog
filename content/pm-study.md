@@ -1,5 +1,5 @@
 ---
-title: Product Management Cheetsheet
+title: Product Management CheatSheet
 description: Изучение product management'a от и до
 draft: "false"
 ---
