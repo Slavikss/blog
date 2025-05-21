@@ -1,6 +1,6 @@
 ---
 title: Project Management Cheastsheet
-draft: "true"
+draft: "false"
 description: Продукт вести хорошо, но еще лучше уметь вести проект который ведет твой продукт
 ---
 # Comparing Waterfall and Agile approaches
