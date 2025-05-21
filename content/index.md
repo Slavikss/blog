@@ -1,5 +1,6 @@
 ---
 title: About me
+draft: "false"
 ---
 
 Это домашняя страница Славы t.me/slavaswords
