@@ -1840,7 +1840,7 @@ Recall from the video that your user stories should meet the **I.N.V.E.S.T.** cr
 - **Small:** Each user story needs to be able to fit within a planned Sprint.
     
 - **Testable**: A test can be conducted to check that it meets the criteria.
-    
+
 
 Let’s imagine you are working on a project for a local library. The library hopes to launch a website so that customers can read reviews before they check out books from the branch. The typical template for a user story looks like this: **As a** _**user role**_**, I want this** _**action**_ **so that I can get this** _**value.**_ Therefore, an example user story for this situation might read: _**As an avid reader, I want to be able to read reviews before I check out a book from my local branch so that I know I am getting a book I am interested in.**_
 
