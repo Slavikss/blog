@@ -62,9 +62,7 @@ Today's Lean Manufacturing recognizes eight types of operational waste:
 ## **What are OKRs?**
 
 OKR stands for objectives and key results. They combine a goal and a metric to determine a measurable outcome.
-
-![Chart showing a description of objectives and key results](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/jptC7Ol7TyWbQuzpe_8lBA_03179af1c1574fc6ac2efe06c12a08f1_OKRs.png?expiry=1747958400000&hmac=rzyfr2FBK8NMnZkaHjwsNVPUPCuH7KMPFAU7cqVajf0)
-
+![[files/Pasted image 20250605220309.png]]
 Objectives: Defines what needs to be achieved; describes a desired outcome. Key results: The measurable outcomes that objectively define when the objective has been met
 
 Company-wide OKRs are used to set an ultimate goal for an entire organization, whole team, or department. Project-level OKRs describe the focused results each group will need to achieve in order to support the organization.
@@ -363,8 +361,6 @@ Project managers integrate all project work by developing the project management
 
 In addition, project managers are responsible for balancing the scope, schedule, and cost of a project by managing engagement with stakeholders. When managing engagement with stakeholders, project managers rely on strong communication skills, political and cultural awareness, negotiation, trust-building, and conflict management skills.
 
-![An image of a project manager juggling multiple items -- people, budgets, emails, tasks, and milestones.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/iS9Zdse-SyGvWXbHvjsh-A_908af7a516104cff84a9dc70085c1914_C2M3L1R2-NEW.png?expiry=1748304000000&hmac=XntmmmUiY3nm9o6TA00JI4lSmgjGTcJWpbKIwsyH26s)
-
 ## **Stakeholders**
 
 Have you ever heard the phrase "the stakes are high"? When we talk about "stakes," we are referring to the important parts of a business, situation, or project that might be at risk if something goes wrong. To hold stake in a business, situation, or project means you are invested in its success. There will often be several parties that will hold stake in the outcome of a project. Each group's level of investment will differ based on how the outcome of the project may impact them**.** Stakeholders are often divided into two groups: **primary stakeholders,** also known as key stakeholders, and **secondary stakeholders.** A primary stakeholder is directly affected by the outcome of the project, while a secondary stakeholder is indirectly affected by the outcome of the project. 
@@ -397,9 +393,7 @@ Let's review the key steps in the stakeholder analysis:
     
 ## **Visualizing your analysis**
 
-
-![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/MKqSfoIYSCe7RSwB4Q58DQ_29893f779bd446d982a7976609f3a7f1_pgm_graph.png?expiry=1748304000000&hmac=GuSv2UsISqmt-c_qTElJYA6hUpmg94TSaWLNPm_qLwQ)
-
+![[files/Pasted image 20250605220343.png]]
 **Quadrant 1: High Influence, High Interest (Upper Right)**
 
 Stakeholders in this quadrant have a significant influence on the project and are highly interested in its outcome. They can greatly impact project decisions and success. Examples might include project sponsors, key executives, or regulatory authorities. Responses for this quadrant include:
@@ -482,15 +476,12 @@ A **project charter** clearly defines the project and outlines the necessary det
 - OKRs
 - approvals
 
-
-![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/sDMSHLUqSYyzEhy1KjmMSA_592feb8ec062452e905649cf325961f1_Project-charter.jpg?expiry=1748304000000&hmac=ioiyBoh-r-YNRWh-6z0STZvYvt4PJPwwiYvpc63Uu_E)
+![[files/Pasted image 20250605220421.png]]
 Example of a project charter
 
 # Setting milestones: Best practices
 
-
-![Image of mountain peaks -- with tasks on top of smaller peaks leading up to milestones on top of larger peaks.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/d1Qj7ltySpyUI-5bckqcew_963ffd147d6c4d32bf15b0230e9fb4fa_Screen-Shot-2021-02-01-at-1.58.28-PM.png?expiry=1748476800000&hmac=lkXvURyQRkEux24OTDpUJ9hMZu8vexP56l7vt2wj7ig)
-
+![[files/Pasted image 20250605220434.png]]
 ## **Set tasks to identify milestones**
 
 Setting tasks can help you clearly define milestones. You can do this in two ways:
@@ -516,8 +507,7 @@ WBS is a deliverable-oriented breakdown of a project into smaller components. It
 
 A thorough WBS gives you a visual representation of a project and the tasks required to deliver each milestone. It makes it easier to understand all of the essential project tasks, such as estimating costs, developing a schedule, assigning roles and responsibilities, and tracking progress. Think of each piece of information as part of the overall project puzzle—you can't successfully navigate through the tasks without understanding how they all fit together. For instance, many smaller tasks may ladder up to a larger task or milestone.
 
-![A WBS chart with the project title at the top, followed by milestones and then tasks below the milestones](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Scu_G9LBQnaLvxvSwQJ2tg_16120ff266654e17b1a393b519ff82f1_WBS.jpg?expiry=1748476800000&hmac=gHvJG6ONQkHT8NSyv7gNiFxKGG8pFsCC1At0eMu6bB8)
-
+![[files/Pasted image 20250605220453.png]]
 ## **Steps to build a WBS**
 
 As a reminder, here are three main steps to follow when creating a WBS: 
@@ -550,7 +540,7 @@ Think about the planning fallacy in relation to yourself as a project manager. I
 
 Let's examine how this happens. David is a project manager responsible for a home construction project. Let's check out his Work Breakdown Structure (WBS): 
 
-![Image of a WBS diagram with tasks and milestones for building a house](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/NDe3VHr7TL-3t1R6--y_xQ_7ecf04e1f9ce48a9ba450247a9ec03c7_C3M2L2R3.png?expiry=1748649600000&hmac=r1Xx4ZuBYDLFju89AUNfo8TR1tACrMOY55PacRrw87E)
+![[files/Pasted image 20250605220511.png]]
 
 Working through his plan, David knows that certain things need to happen for the house to be completed. He has to order materials, the materials have to be delivered, the contractor has to actually build the house, and there needs to be time for completing finishing touches and adjustments. The time estimations for those major tasks might break down like this:
 
@@ -624,7 +614,7 @@ One common way to visualize the critical path is by creating a **network diagram
 - Which non-essential tasks are NOT on the critical path
     
 
-![A network diagram showing the critical path of tasks for building a house.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/ECPeOzHVSkaj3jsx1RpGnw_db9830d92943496296d29a5b51b4b3f1_critical-path-1.svg?expiry=1748649600000&hmac=WmBMiZBMJyUCbT78HFISm8hbDfI9YNUBq_w-g6hnwGo)
+![[files/Pasted image 20250605220523.png]]
 
 (Long description of graphic above: Essential tasks, including Start, Excavation, Foundation, Framing, Roof, HVAC, Plumbing, Electrical, Insulation, Drywall+Paint, Flooring, and Finish, are laid out in a sequential path and highlighted in blue. Roof, HVAC, and Electrical are shown as tasks able to be done concurrently with Framing and Plumbing. Non-essential tasks are separated from essential tasks and are highlighted in red. Non-essential tasks include Driveway Pavement, Landscaping, Trim, and Appliances.)
 
@@ -645,7 +635,7 @@ After determining tasks and dependencies, consult key stakeholders to get accura
 |I) Drywall + Paint|15 Days|H) Insulation|
 |J) Flooring|7 Days|I) Drywall + Paint|
 
-![A network diagram showing the critical path of tasks for building a house with the number of days to complete each task](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/LKVlQrlGSBGlZUK5RmgRZg_2563c84fa7b243dca53879ecd7438af1_critical-path-2.svg?expiry=1748649600000&hmac=xDJ2XAhZwe1xqtfWSz5j4pRV_wwZBQO-7S_eCjeCwSo)
+![[files/Pasted image 20250605220531.png]]
 
 ### **Step 5: Find the critical path** 
 
@@ -726,7 +716,7 @@ A reserve analysis will help you account for any buffer funds you may need. Firs
 
 Budget templates are a useful tool for helping you estimate, track, and maintain a project budget. Below, you will find a few different budget templates that you can use for future projects. Each of these templates is formatted in a digital spreadsheet. 
 
-![An image of a mocked up budget template with columns tasks, labor, materials, fixed costs, and target and actual budgets](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/jNjRKz2YTeaY0Ss9mO3mPQ_78041425013e4deab58ab9cbd03b4368_C3M3L2R1-NEW.png?expiry=1748649600000&hmac=H4Ob2y9AWPcOIURJCVi1V1MvR93pSgqHguBy3S7tVJM)
+![[files/Pasted image 20250605220541.png]]
 
 [Microsoft Excel Budget Templates](https://templates.office.com/en-us/budgets) 
 
@@ -820,7 +810,7 @@ Contingency reserves are an estimated amount, whereas management reserves are ge
 5. **Monitor and control the risk.** Finally, assign team members to monitor, track, and mitigate risks if the need arises.
 
 ## Four types of Risk mitigation
-![Image of icons for four types of risk mitigation: Avoid, minimize, transfer and accept](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/V4pzz7mfQcuKc8-5n1HLXA_e03574beef7c42d8ae8ae4b5b4cd32b0_Four-types-of-risk-mitigation.png?expiry=1748736000000&hmac=wbm4f2iCYrtXnnke4nLY92f5GhUUfomt4SDlLlYXaDg)
+![[files/Pasted image 20250605220552.png]]
 
 >Let's imagine that Office Green uses plant seeds from a company in South America for the majority of its offerings. The plants produced by these seeds are in high demand by Office Green's customers. However, the local government on the suppliers' end just announced that it would be imposing a new tax on the exporting of seeds and produce. As a result, the price of the seeds suddenly becomes so high that it is difficult for the company to supply the seeds to Office Green, putting the project at risk of not having these seeds available to purchase.
 ### **Avoid**  
@@ -851,7 +841,7 @@ In the video, you learned to identify several types of risks. In this reading, w
 
 In this type of relationship between two tasks, Task A must be completed before Task B can start. This is the most common dependency in project management. It follows the natural progression from one task to another.
 
-![Graphic that lists Finish to Start Icon (A to B). Task B can't start until task A has finished](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/bEpzs500T-6Kc7OdNM_uLA_369f973e06fe49a497503dd75e3c8a9c_C3M4L2R3_A.png?expiry=1748736000000&hmac=ecesSHjNHMjNlQ8C8x-a1770N4vtHIygvMDUUEWC-OI)
+![[files/Pasted image 20250605220600.png]]
 
 **Example:** Imagine you are getting ready to have some friends over for dinner. You can't start putting on your shoes (Task B) until you've finished putting on your socks (Task A). 
 
@@ -861,7 +851,7 @@ Task A: **Finish** putting on your socks. →Task B: **Start** putting on your s
 
 In this model, Task A must finish before Task B can finish. (This type of dependency is not common.)
 
-![Graphic of Finish to Finish showing that Task A must finish before Task B can finish.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/88awBCmTQ7mGsAQpk7O5gQ_246523dbacaa4dd5b800a1d9edc3f96b_C3M4L2R3_D.png?expiry=1748736000000&hmac=kevahgogBMbuonqA0DcRrM0HxypmK0cIM-IAEOIPgmk)
+![[files/Pasted image 20250605220612.png]]
 
 **Example:** Earlier in the day, you baked a cake. You can't finish decorating the cake (Task B) until you finish making the icing (Task A).
 
@@ -871,7 +861,7 @@ Task A: **Finish** making the icing. →Task B: **Finish** decorating the cake.
 
 In this model, Task B can't begin until Task A begins. This means Tasks A and B start at the same time and run in parallel.
 
-![Graphic with Task A and Task B showing that Task A can't begin until Task B begins](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/J4MD0luQQlqDA9JbkOJaxQ_8f19e95a94d348618fb14449d95671b3_C3M4L2R3_B.png?expiry=1748736000000&hmac=jrdObFadhOu6Zfg6nXjywoxA9NliqKRtCUdbuMn4-8M)
+![[files/Pasted image 20250605220623.png]]
 
 **Example:**   You need to take the train home after work. You can't get on the train (Task B) until you pay for the train ride (Task A).   
 
@@ -881,7 +871,7 @@ Task A: **Start** by paying for your train ride. →Task B: **Start** going home
 
 In this model, Task A must begin before Task B can be completed.
 
-![Start to Finish (SF) Graphic showing Task A must begin before Task B can be completed.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/LBb4Toy0QpaW-E6MtHKWKA_68d709b3f6bd4024a34f8a2c7fe9d67e_C3M4L2R3_C.png?expiry=1748736000000&hmac=mvLvN4wkykiWD3KGejsfhmAnXE1itOGg8knkA9vkgOQ)
+![[files/Pasted image 20250605220631.png]]
 
 **Example:**    One of your friends calls to tell you he'll be late. He can't finish his shift (Task B) and leave work until his coworker arrives to start her shift (Task A). 
 
@@ -931,8 +921,7 @@ This is the central piece of a strong escalation email. In this section, you pro
 
 Let's see how these best practices come together to form a strong escalation email. In the scenario that prompts the email, Sayid, a project manager from a company that sells gift baskets, is having a quality control issue with one of the items in a line of holiday baskets. If the issue is not rectified soon, the product launch will have to be delayed and the company will lose money. In the annotated email example below, Sayid explains the issue to his internal stakeholders and requests a meeting with them.
 
-![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/yyCQX_utSSCgkF_7rbkglA_e1cd2d02f7b94ec08fb3ba1e2ed68af1_Escalation-email.png?expiry=1748822400000&hmac=so8eUns7r5lhlSiZavVTXIFQqMmBXAJ2VM6irVgBT-A)
-
+![[files/Pasted image 20250605220659.png]]
 _Alternate text of email:_
 
 To: knelson@graciousgiftbaskets.com, gabrielmendoza@graciousgiftbaskets.com _**[Your stakeholders]**_
@@ -1339,8 +1328,7 @@ For additional information, read more on the [12 principles here](http://agilema
 
 # The founding principles of Scrum
 
-
-![Image of a rugby team](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/VN99PzdUSCiffT83VNgotA_a9d4d85cdb444c709cd941c2369eb0b1_C5M1L3R1-01.png?expiry=1749168000000&hmac=L2GZ1cBM7liZDDvEzKFOBktCrsKadTMfKz6vY05njiQ)
+![[files/Pasted image 20250605220714.png]]
 
 The original Harvard Business Review paper, written by Hirotaka Takeuchi and Ikujiro Nonaka and titled [_The New New Product Development Game_](https://hbr.org/1986/01/the-new-new-product-development-game), introduces Scrum in the chapter “Moving the Scrum downfield.” Throughout the paper, the authors continue to point out which characteristics of a team help to move the Scrum downfield. Those are: 
 
@@ -1855,7 +1843,7 @@ Another user story could be that customers want to walk into the library and eas
 
 So rather than those various user stories appearing in a list together, they are organized into sections, or epics.
 
-![Hierarchy chart with three epics at the top and corresponding tasks and stories below each of them](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/zjDxivgGR52w8Yr4Bsedug_ca736c1ec4394596a84340950484e21a_Screen-Shot-2021-02-01-at-2.36.43-PM.png?expiry=1749168000000&hmac=F6X8ZrjlLCmO3f0hTbUlWDowrKfRcF8JZQpHraahal0)
+![[files/Pasted image 20250605220733.png]]
 
 # Agile effort estimation techniques
 
@@ -1915,7 +1903,7 @@ As a recap, **relative estimation** means to compare the effort estimated for co
 
 At first, T-shirt sizes may seem like a somewhat unusual way to measure an item or user story. But when you think about assigning estimations to items based on sizes (e.g., XS, S, M, L, XL, XXL), it is actually very helpful and easy. Some of the benefits to using this technique are that it is quick, well understood by Agile experts, and a good introduction for teams who are just learning relative estimation.
 
-![Image of six individual t-shirts with a size on each. Ranging from XS-XXL](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/1eAjikJYRpugI4pCWEab0w_46ed6be1cdeb400690ed048913fe21b4_C5M3L1R4.png?expiry=1749168000000&hmac=9SJj-mlwvwh7wPw2kqrNn6tF5NdUsKYAt7jZE6sc11o)
+![[files/Pasted image 20250605220742.png]]
 
 So what does the process of assigning T-shirt sizes entail? There are several specific techniques a team can try, but each generally follows these steps. The team: 
 
