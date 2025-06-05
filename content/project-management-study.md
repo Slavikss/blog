@@ -1,6 +1,6 @@
 ---
 title: Project Management Cheatsheet
-draft: "true"
+draft: "false"
 description: Leading a product is good, but it's even better to know how to lead a project that leads your product
 ---
 
