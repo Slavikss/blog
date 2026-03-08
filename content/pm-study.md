@@ -1,6 +1,6 @@
 ---
-title: "Product Management Cheatsheet"
-description: "Модульная база знаний по Product Management от Славы"
+title: "Шпаргалка по продакт-менеджменту (Product Management Cheatsheet)"
+description: "Модульная база знаний по продакт-менеджменту (Product Management) от Славы"
 tags:
   - knowledge
   - product-management
@@ -10,11 +10,11 @@ aliases:
   - /knowledge/product-management
 ---
 
-# Справочник по Product Management
+# Справочник по продакт-менеджменту (Product Management)
 
 Лонгрид переведен в модульную структуру: теперь это хаб с темами и быстрыми переходами.
 
-Всем привет! Слава снова на связи, вот и настал момент, когда начал изучать продакт менеджмент с головой, и вместо того, чтобы делать это в стол, решил внедрить новую для себя технику - конспектирование и шеринг материалов, которые нахожу.
+Всем привет! Слава снова на связи, вот и настал момент, когда я начал изучать продакт-менеджмент с головой, и вместо того, чтобы делать это в стол, решил внедрить новую для себя технику: конспектирование и шеринг материалов, которые нахожу.
 
 ![[assets/Pasted image 20250220222407.webp]]
 
@@ -68,19 +68,19 @@ aliases:
 > - https://startinfinity.com/product-management-framework
 > - https://gopractice.ru/course/pm/ (платное)
 >
-> Roadmap
+> Дорожные карты
 >
 > - https://roadmap.sh/product-manager
 > - https://docs.google.com/spreadsheets/d/1fwNSY86md_mMdKXaq6e-8FVmhM_wjQsaAdPES10SWeo/edit?gid=0#gid=0
 > - https://podbiratel.com/venture-product-manager
 > - https://podbiratel.com/#rec544298327
 >
-> Проверка навыков Product Management'a
+> Проверка навыков в продакт-менеджменте
 >
 > - [Скоринг навыков от Product Sense](https://docs.google.com/spreadsheets/d/1DC61vKVcPcxb2OgGZ98hKSlzM1c07YfhAywu1WFy8Eg/edit?gid=51611207#gid=51611207)
 > - [Тест для оценки навыков в управлении продуктом](https://gopractice.ru/sat/)
 
-> [!Tip] Карта развития Growth Product Manager
+> [!Tip] Карта развития менеджера роста продукта (Growth Product Manager)
 > ![[assets/Growth product manager map v1.pdf]]
 
 # Конспект📝
@@ -104,5 +104,5 @@ aliases:
 
 ## Быстрые ссылки
 
-- [[knowledge/product-management/index|Открыть раздел Product Management]]
-- [[project-management-study|Перейти в Project Management Cheatsheet]]
+- [[knowledge/product-management/index|Открыть раздел продакт-менеджмента]]
+- [[project-management-study|Перейти в шпаргалку по проектному менеджменту]]

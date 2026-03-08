@@ -1,6 +1,6 @@
 ---
 title: "Жизнь как управление продуктом"
-description: "Раздел из Product Management Cheatsheet: Жизнь как управление продуктом"
+description: "Раздел из шпаргалки по продакт-менеджменту (Product Management Cheatsheet): Жизнь как управление продуктом"
 tags:
   - knowledge
   - product-management
@@ -12,11 +12,11 @@ aliases:
 
 # Жизнь как управление продуктом
 
-> [!quote] coming soon
+> [!quote] Скоро здесь появится разбор
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/product-management/13-startup-ideas-that-fail|Очевидные идеи стартапов, которые не летят]]
-- [[pm-study|Наверх: Product Management Cheatsheet]]
+- Назад: [[knowledge/product-management/13-startup-ideas-that-fail|Очевидные идеи стартапов, которые не летят]]
+- [[pm-study|Наверх: Шпаргалка по продакт-менеджменту]]

@@ -1,6 +1,6 @@
 ---
-title: "Breaking down the work breakdown structure"
-description: "Раздел из Project Management Cheatsheet: Breaking down the work breakdown structure"
+title: "Декомпозиция иерархической структуры работ (Work Breakdown Structure, WBS)"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): декомпозиция WBS"
 tags:
   - knowledge
   - project-management
@@ -10,18 +10,18 @@ aliases:
   - /project-management-study/10-work-breakdown-structure
 ---
 
-# Breaking down the work breakdown structure
+# Декомпозиция иерархической структуры работ (Work Breakdown Structure, WBS)
 
 ![[assets/Pasted image 20250605220453.webp]]
 
-## **Steps to build a WBS**
+## **Шаги по созданию WBS**
 
-## **Further reading**
+## **Дополнительные материалы**
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/09-milestones-best-practices|Setting milestones: Best practices]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/11-planning-fallacy|Overcoming the planning fallacy]]
+- Назад: [[knowledge/project-management/09-milestones-best-practices|Постановка вех (milestones): лучшие практики]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/11-planning-fallacy|Как преодолеть ошибку планирования (planning fallacy)]]

@@ -1,6 +1,6 @@
 ---
 title: "Анализ рынка"
-description: "Раздел из Product Management Cheatsheet: Анализ рынка"
+description: "Раздел из шпаргалки по продакт-менеджменту (Product Management Cheatsheet): Анализ рынка"
 tags:
   - knowledge
   - product-management
@@ -34,7 +34,7 @@ aliases:
 Количественные: используем статистику и проценты, чтобы понять общую тенденцию.   
 Качественные: анализируем ответы людей, чтобы выявить основные идеи или мнения. 
 
-#### Confirmation bias - что это?
+#### Предвзятость подтверждения (Confirmation Bias) - что это?
 
 Это тенденция искать информацию таким образом, чтобы она подтверждала уже существующие убеждения. Например, если мы считаем, что новый дизайн продукта будет успешным, мы можем невольно уделять больше внимания положительным отзывам и игнорировать критические.
 
@@ -46,25 +46,25 @@ aliases:
 
 Мы можем придавать больше значения последним данным или информации, которую они узнали. Так, если последние несколько опрошенных пользователей высказались критически о продукте, то мы можем считать, что весь продукт требует переработки, игнорируя ранее полученные положительные отзывы.
 
-#### Social desirability bias
+#### Предвзятость социальной желательности (Social Desirability Bias)
 
-#### Recall bias
+#### Предвзятость воспоминаний (Recall Bias)
 
-#### Observer bias
+#### Предвзятость наблюдателя (Observer Bias)
 
-#### **The Hawthorne effect** 
+#### **Эффект Хоторна (The Hawthorne Effect)**
 
-#### What Is Omitted Variable Bias?
+#### Что такое предвзятость пропущенной переменной (Omitted Variable Bias)?
 
-#### Sampling Bias
+#### Ошибка выборки (Sampling Bias)
 
-- **[Sampling bias](https://www.scribbr.com/research-bias/sampling-bias/) or [ascertainment bias](https://www.scribbr.com/research-bias/ascertainment-bias/)** occurs when some members of the intended population are less likely to be included than others. As a result, your [sample](https://www.scribbr.com/methodology/population-vs-sample/) is not representative of your population.
+- **[Ошибка выборки (Sampling Bias)](https://www.scribbr.com/research-bias/sampling-bias/) или [ошибка выявления (Ascertainment Bias)](https://www.scribbr.com/research-bias/ascertainment-bias/)** возникает, когда часть представителей целевой совокупности с меньшей вероятностью попадает в исследование. В результате ваша [выборка](https://www.scribbr.com/methodology/population-vs-sample/) оказывается нерепрезентативной.
 
-- [**Attrition bias**](https://www.scribbr.com/research-bias/attrition-bias/) occurs when participants who drop out of a study are [systematically](https://www.scribbr.com/methodology/random-vs-systematic-error/) different from those who remain.
+- [**Ошибка выбывания (Attrition Bias)**](https://www.scribbr.com/research-bias/attrition-bias/) возникает, когда участники, покидающие исследование, [систематически](https://www.scribbr.com/methodology/random-vs-systematic-error/) отличаются от тех, кто остается.
 
-- [**Survivorship bias**](https://www.scribbr.com/research-bias/survivorship-bias/) is a form of logical error that leads researchers who study a group to draw conclusions by only focusing on examples of successful individuals (the “survivors”) rather than the group as a whole.
+- [**Ошибка выжившего (Survivorship Bias)**](https://www.scribbr.com/research-bias/survivorship-bias/) - это логическая ошибка, при которой исследователь делает выводы по группе, глядя только на успешные примеры («выживших»), а не на всю совокупность.
 
-- **[Undercoverage bias](https://www.scribbr.com/research-bias/undercoverage-bias/)** occurs when some members of your population are not represented in the sample. It is common in [convenience sampling](https://www.scribbr.com/methodology/convenience-sampling/), where you recruit a sample that’s easy to obtain.
+- **[Ошибка недоохвата (Undercoverage Bias)](https://www.scribbr.com/research-bias/undercoverage-bias/)** возникает, когда часть вашей совокупности не представлена в выборке. Это часто встречается при [удобной выборке (Convenience Sampling)](https://www.scribbr.com/methodology/convenience-sampling/), когда берут тех, до кого проще всего добраться.
 
 ### Анализ рынка
 
@@ -180,37 +180,37 @@ aliases:
 > [!Info]
 > Как определить целевую аудиторию своего продукта и провести сегментацию
 
-#### User Persona Templates
+#### Шаблоны пользовательских персон (User Persona Templates)
 
 75. ![](https://miro.medium.com/v2/resize:fit:1190/1*W3y3i4d6LWIEoaaNNa3Rww.png)
     ![](https://miro.medium.com/v2/resize:fit:1190/1*4vqQQnq-ln4SugeyHFGO-g.png)
 
-2.![[assets/Pasted image 20250126170242.png]]
+76. ![[assets/Pasted image 20250126170242.png]]
 
-#### Market Segments and User Personas
+#### Сегменты рынка и пользовательские персоны (Market Segments and User Personas)
 
 ![[assets/Pasted image 20250126170056.png]]
 
-### Pricing
+### Ценообразование (Pricing)
 
-#### Mistakes while pricing
+#### Ошибки в ценообразовании (Mistakes While Pricing)
 
     ![[assets/Pasted image 20250126183522.png]]
 
 ### Каналы сбыта
 
 > [!Info]
-> A distribution channel is the network of businesses or intermediaries through which a good or service passes until it reaches the final buyer (the end consumer). Distribution channels can include [wholesalers](https://www.investopedia.com/terms/w/wholesaling.asp), [retailers](https://www.investopedia.com/articles/markets/122415/worlds-top-10-retailers-wmt-cost.asp), distributors, and the Internet.
+> Канал дистрибуции (distribution channel) - это сеть компаний или посредников, через которую товар или услуга проходит до конечного покупателя. Каналы могут включать [оптовиков (wholesalers)](https://www.investopedia.com/terms/w/wholesaling.asp), [ритейлеров (retailers)](https://www.investopedia.com/articles/markets/122415/worlds-top-10-retailers-wmt-cost.asp), дистрибьюторов и интернет.
 
-#### Distribution Channel Levels 
+#### Уровни каналов дистрибуции (Distribution Channel Levels)
 
-##### Level 0 ### (Manufacturer to Customer)
+##### Уровень 0 (Level 0): производитель -> покупатель
 
-##### Level 1 (Manufacturer to Retailer to Customer)
+##### Уровень 1 (Level 1): производитель -> ритейлер -> покупатель
 
-##### Level 2  (Manufacturer to Wholesaler to Retailer to Customer)
+##### Уровень 2 (Level 2): производитель -> оптовик -> ритейлер -> покупатель
 
-##### Level 3  (Manufacturer to Agent to Wholesaler to Retailer to Customer)
+##### Уровень 3 (Level 3): производитель -> агент -> оптовик -> ритейлер -> покупатель
 
 #### ![воронка digital-маркетинга](https://iampm.club/wp-content/uploads/2022/02/viz_1-1350x657.png?x35140 "Выбор каналов для продвижения. Как продвигать IT-продукт")
 
@@ -225,7 +225,7 @@ aliases:
 Три наиболее популярные системы контекстной рекламы:
 
 80. Яндекс.Директ
-81. Google Ads
+81. Реклама в Google (Google Ads)
 82. myTarget (контекстный таргетинг)
 
 ##### Таргетированная реклама
@@ -237,7 +237,7 @@ aliases:
 83. Facebook Ads (Реклама в Facebook и Instagram)
 84. myTarget (Реклама в Одноклассниках и ВКонтакте)
 85. Вконтакте (как отдельная рекламная система)
-86. TikTok Ads
+86. Реклама в TikTok (TikTok Ads)
 
 ##### Алгоритмическое системы рекламы или **программатик**
 
@@ -255,15 +255,15 @@ aliases:
 
 Привлечение клиентов с помощью интересного и полезного им контента: 96. Блог компании со статьями на профессиональные темы 97. Канал на YouTube с обучающими видео 98. Публикации и комментарии к статьям в тематических СМИ (краудмаркетинг) 99. Статьи в онлайн-СМИ и коллективных блогах (например vc.ru) 100. Аудиоподкасты на профессиональные темы 101. Подготовка аналитики, отчетов на основе публикаций исследований 102. Тесты (например через Google Формы) 103. Распространение электронных книг, руководств 104. Размещение презентаций на Slideshare.net 105. Проведение вебинаров 106. Изготовление инфографики
 
-##### Email-маркетинг
+##### Почтовый маркетинг (Email-маркетинг)
 
-Электронная почта пожалуй, самый недооцененный маркетинговый канал. Мало кто использует хотя бы два инструмента из имеющихся в арсенале email-маркетинга: 107. Информационно-тематические рассылки 108. Автоматизированные цепочки рассылок 109. Триггерные рассылки 110. Уведомления, напоминания 111. Размещение анонсов, акций в рассылках партнеров
+Электронная почта, пожалуй, самый недооцененный маркетинговый канал. Мало кто использует хотя бы два инструмента из арсенала email-маркетинга: 107. Информационно-тематические рассылки 108. Автоматизированные цепочки рассылок 109. Триггерные рассылки 110. Уведомления, напоминания 111. Размещение анонсов и акций в рассылках партнеров
 
-##### SMM
+##### Маркетинг в соцсетях (SMM)
 
 Маркетинг в социальных сетях так же не ограничивается созданием собственной группы: 112. Прямые продажи, общение с аудиторией напрямую 113. Масс-фоловинг 114. Масс-лайкинг 115. Работа с блогерами, нативные интеграции 116. Продажи через группу в новостной ленте сообщества 117. Выкладка товаров в функционал магазина группы 118. Реклама в сообществах 119. Мониторинг упоминаний ключевых фраз в социальных медиа 120. Акции, конкурсы, розыгрыши 121. Собственные купонаторы для социальных сетей 122. Вирусные видеоролики, мемы 123. Аудиореклама
 
-##### Форумы, Q&A
+##### Форумы и вопросы-ответы (Q&A)
 
 Практически бесплатный канал продвижения, с которым мало кто умеет полноценно работать: 124. Общение, ответы на вопросы 125. Партизанские методы, скрытый маркетинг 126. Работа с отзывами и негативом
 
@@ -367,7 +367,7 @@ aliases:
     - Антимонопольные законы.
     - Законы, регулирующие сектора и далее.
 
-### CustDev
+### Кастдев (CustDev)
 
 #### Золотые правила:
 
@@ -466,6 +466,6 @@ aliases:
 
 ## Навигация
 
-- Prev: [[knowledge/product-management/03-idea-discovery-and-validation|Поиск идей]]
-- [[pm-study|Наверх: Product Management Cheatsheet]]
-- Next: [[knowledge/product-management/05-product-approaches|Продуктовые подходы]]
+- Назад: [[knowledge/product-management/03-idea-discovery-and-validation|Поиск идей]]
+- [[pm-study|Наверх: Шпаргалка по продакт-менеджменту]]
+- Далее: [[knowledge/product-management/05-product-approaches|Продуктовые подходы]]

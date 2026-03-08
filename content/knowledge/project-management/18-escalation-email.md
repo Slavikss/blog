@@ -1,6 +1,6 @@
 ---
-title: "Writing an effective escalation email"
-description: "Раздел из Project Management Cheatsheet: Writing an effective escalation email"
+title: "Как написать эффективное эскалационное письмо"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): эскалационное письмо"
 tags:
   - knowledge
   - project-management
@@ -10,48 +10,48 @@ aliases:
   - /project-management-study/18-escalation-email
 ---
 
-# Writing an effective escalation email
+# Как написать эффективное эскалационное письмо
 
-Effective escalation emails:
+Эффективные эскалационные письма:
 
-### **Maintain a friendly tone**
+### **Сохраняйте дружелюбный тон**
 
-### **State your connection to the project**
+### **Обозначьте вашу связь с проектом**
 
-### **Explain the problem**
+### **Опишите проблему**
 
-### **Explain the consequences**
+### **Объясните последствия**
 
-### **Propose a course of action and make a request**
+### **Предложите план действий и сформулируйте запрос**
 
-### **Putting it all together**
+### **Соберите письмо целиком**
 
 ![[assets/Pasted image 20250605220659.webp]]
 
-Hi Karen and Gabriel,
+Привет, Карен и Габриэль,
 
-Sayid
+Сайид
 
-_End of email_
+_Конец письма_
 
-## **What Is DMAIC?**
+## **Что такое DMAIC?**
 
-### The Five Phases of DMAIC
+### Пять фаз DMAIC
 
-1. **Define**
+1. **Определение (Define)**
 
-2. **Measure**
+2. **Измерение (Measure)**
 
-3. **Analyze**
+3. **Анализ (Analyze)**
 
-4. **Improve**
+4. **Улучшение (Improve)**
 
-## **What Is PDCA?**
+## **Что такое PDCA?**
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/17-dependency-relationships|Visualizing dependency relationships]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/19-quality-management|Quality management concepts]]
+- Назад: [[knowledge/project-management/17-dependency-relationships|Визуализация зависимостей между задачами]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/19-quality-management|Основы управления качеством]]

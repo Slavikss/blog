@@ -1,6 +1,6 @@
 ---
 title: "Подход к стейкхолдерам"
-description: "Раздел из Product Management Cheatsheet: Подход к стейкхолдерам"
+description: "Раздел из шпаргалки по продакт-менеджменту (Product Management Cheatsheet): Подход к стейкхолдерам"
 tags:
   - knowledge
   - product-management
@@ -36,6 +36,6 @@ aliases:
 
 ## Навигация
 
-- Prev: [[knowledge/product-management/10-marketing-for-managers|Маркетинг для менеджеров]]
-- [[pm-study|Наверх: Product Management Cheatsheet]]
-- Next: [[knowledge/product-management/12-team-management|Команда]]
+- Назад: [[knowledge/product-management/10-marketing-for-managers|Маркетинг для менеджеров]]
+- [[pm-study|Наверх: Шпаргалка по продакт-менеджменту]]
+- Далее: [[knowledge/product-management/12-team-management|Команда]]

@@ -1,6 +1,6 @@
 ---
-title: "Overcoming budgeting challenges"
-description: "Раздел из Project Management Cheatsheet: Overcoming budgeting challenges"
+title: "Преодоление сложностей бюджетирования"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): сложности бюджетирования"
 tags:
   - knowledge
   - project-management
@@ -10,18 +10,18 @@ aliases:
   - /project-management-study/14-budgeting-challenges
 ---
 
-# Overcoming budgeting challenges
+# Преодоление сложностей бюджетирования
 
-## **Challenge 1: Budget pre-allocation**
+## **Проблема 1: Предварительное распределение бюджета**
 
-## **Challenge 2: Inaccurately calculating TCO**
+## **Проблема 2: Неточный расчет совокупной стоимости владения (Total Cost of Ownership, TCO)**
 
-## **Challenge 3: Scope creep**
+## **Проблема 3: Расползание содержания (scope creep)**
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/13-budget-templates|Helpful budget templates]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/15-budgeting-terms|Introduction to budgeting terms]]
+- Назад: [[knowledge/project-management/13-budget-templates|Полезные шаблоны бюджета]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/15-budgeting-terms|Введение в термины бюджетирования]]

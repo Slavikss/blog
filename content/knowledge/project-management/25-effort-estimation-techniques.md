@@ -1,6 +1,6 @@
 ---
-title: "Agile effort estimation techniques"
-description: "Раздел из Project Management Cheatsheet: Agile effort estimation techniques"
+title: "Техники оценки трудозатрат в Agile"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): техники оценки в Agile"
 tags:
   - knowledge
   - project-management
@@ -10,26 +10,26 @@ aliases:
   - /project-management-study/25-effort-estimation-techniques
 ---
 
-# Agile effort estimation techniques
+# Техники оценки трудозатрат в Agile
 
-## **Planning Poker™**
+## **Покер планирования (Planning Poker™)**
 
-## **Dot Voting** 
+## **Точечное голосование (Dot Voting)**
 
-## **The Bucket System**
+## **Метод корзин (Bucket System)**
 
-## **Large/Uncertain/Small** 
+## **Большой/Неопределенный/Малый (Large/Uncertain/Small)**
 
-## **Ordering Method**
+## **Метод упорядочивания (Ordering Method)**
 
-## **Affinity Mapping**
+## **Карта аффинности (Affinity Mapping)**
 
-## **Characteristics of effective estimation**
+## **Характеристики эффективной оценки**
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/24-user-stories-and-epics|The elements of user stories and epics]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/26-t-shirt-sizes-and-story-points|T-shirt sizes and story points]]
+- Назад: [[knowledge/project-management/24-user-stories-and-epics|Элементы пользовательских историй (user stories) и эпиков (epics)]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/26-t-shirt-sizes-and-story-points|Размеры футболок (T-shirt sizes) и стори-пойнты (story points)]]

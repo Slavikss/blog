@@ -1,6 +1,6 @@
 ---
-title: "Project Management Cheatsheet"
-description: "Модульная база знаний по Project Management от Славы"
+title: "Шпаргалка по управлению проектами (Project Management)"
+description: "Модульная база знаний по управлению проектами (Project Management) от Славы"
 tags:
   - knowledge
   - project-management
@@ -10,47 +10,47 @@ aliases:
   - /knowledge/project-management
 ---
 
-# Справочник по Project Management
+# Справочник по управлению проектами (Project Management)
 
 Лонгрид переведен в модульную структуру: теперь это хаб с темами и быстрыми переходами.
 
-> [!example]- Basic cheatsheets
+> [!example]- Базовые шпаргалки
 >
-> - [Initiation: Guiding questions and tips](https://docs.google.com/document/d/1bDbzlUSGNqCIYcqYAUp4pvFMzYuUbS2UFV9ofeoyiEg/template/preview)
-> - [Planning: Guiding questions and tips](https://docs.google.com/document/d/1pcSQW8d-PhoMprc6xh3G5JYUDPFUabKecZ9Qyrk7xFw/template/preview)
-> - [Execution: Guiding questions and tips](https://docs.google.com/document/d/1YH6ai8o4NDf_s6OFBeu1hTzbaiCantOZfqEqDxfj7D4/template/preview)
-> - [Closing: Guiding questions and tips](https://docs.google.com/document/d/1tP5XapNFQ0SmYWedsGW2MDKFw2JuTISFhRyZ2wGLhJY/template/preview?resourcekey=0-pMrpTgrnD4_hOTfJcyWTuw)
+> - [Инициация: вопросы-наводки и советы](https://docs.google.com/document/d/1bDbzlUSGNqCIYcqYAUp4pvFMzYuUbS2UFV9ofeoyiEg/template/preview)
+> - [Планирование: вопросы-наводки и советы](https://docs.google.com/document/d/1pcSQW8d-PhoMprc6xh3G5JYUDPFUabKecZ9Qyrk7xFw/template/preview)
+> - [Исполнение: вопросы-наводки и советы](https://docs.google.com/document/d/1YH6ai8o4NDf_s6OFBeu1hTzbaiCantOZfqEqDxfj7D4/template/preview)
+> - [Закрытие: вопросы-наводки и советы](https://docs.google.com/document/d/1tP5XapNFQ0SmYWedsGW2MDKFw2JuTISFhRyZ2wGLhJY/template/preview?resourcekey=0-pMrpTgrnD4_hOTfJcyWTuw)
 
 ## Маршрут чтения
 
-1. [[knowledge/project-management/01-waterfall-and-agile|Comparing Waterfall and Agile Approaches]]
-2. [[knowledge/project-management/02-lean-and-six-sigma|Lean and Six Sigma Methodologies]]
-3. [[knowledge/project-management/03-creating-okrs|Creating OKRs for your project]]
-4. [[knowledge/project-management/04-defining-scope|Gathering information to define scope]]
-5. [[knowledge/project-management/05-controlling-scope-creep|Strategies for controlling scope creep]]
-6. [[knowledge/project-management/06-essential-project-roles|Essential project roles]]
-7. [[knowledge/project-management/07-stakeholder-prioritization-and-buy-in|Prioritizing stakeholders and generating their buy-in]]
-8. [[knowledge/project-management/08-project-charters|Project charters: Elements and formats]]
-9. [[knowledge/project-management/09-milestones-best-practices|Setting milestones: Best practices]]
-10. [[knowledge/project-management/10-work-breakdown-structure|Breaking down the work breakdown structure]]
-11. [[knowledge/project-management/11-planning-fallacy|Overcoming the planning fallacy]]
-12. [[knowledge/project-management/12-critical-path|Creating a critical path]]
-13. [[knowledge/project-management/13-budget-templates|Helpful budget templates]]
-14. [[knowledge/project-management/14-budgeting-challenges|Overcoming budgeting challenges]]
-15. [[knowledge/project-management/15-budgeting-terms|Introduction to budgeting terms]]
-16. [[knowledge/project-management/16-risk-management-phases|Phases of risk management]]
-17. [[knowledge/project-management/17-dependency-relationships|Visualizing dependency relationships]]
-18. [[knowledge/project-management/18-escalation-email|Writing an effective escalation email]]
-19. [[knowledge/project-management/19-quality-management|Quality management concepts]]
-20. [[knowledge/project-management/20-agile-manifesto|The Agile Manifesto]]
-21. [[knowledge/project-management/21-scrum-principles|The founding principles of Scrum]]
-22. [[knowledge/project-management/22-scrum-guide-2020|The 2020 Scrum GuideTM]]
-23. [[knowledge/project-management/23-scrum-team-roles|Great Scrum Team Roles]]
-24. [[knowledge/project-management/24-user-stories-and-epics|The elements of user stories and epics]]
-25. [[knowledge/project-management/25-effort-estimation-techniques|Agile effort estimation techniques]]
-26. [[knowledge/project-management/26-t-shirt-sizes-and-story-points|T-shirt sizes and story points]]
+1. [[knowledge/project-management/01-waterfall-and-agile|Сравнение каскадного подхода (Waterfall) и гибкого подхода (Agile)]]
+2. [[knowledge/project-management/02-lean-and-six-sigma|Методологии бережливого подхода (Lean) и Six Sigma]]
+3. [[knowledge/project-management/03-creating-okrs|Создание целей и ключевых результатов (Objectives and Key Results, OKR) для проекта]]
+4. [[knowledge/project-management/04-defining-scope|Сбор информации для определения содержания проекта (scope)]]
+5. [[knowledge/project-management/05-controlling-scope-creep|Стратегии контроля расползания содержания (scope creep)]]
+6. [[knowledge/project-management/06-essential-project-roles|Ключевые роли проекта]]
+7. [[knowledge/project-management/07-stakeholder-prioritization-and-buy-in|Приоритизация заинтересованных сторон и получение их поддержки (buy-in)]]
+8. [[knowledge/project-management/08-project-charters|Устав проекта (Project Charter): элементы и форматы]]
+9. [[knowledge/project-management/09-milestones-best-practices|Постановка вех (milestones): лучшие практики]]
+10. [[knowledge/project-management/10-work-breakdown-structure|Декомпозиция иерархической структуры работ (Work Breakdown Structure, WBS)]]
+11. [[knowledge/project-management/11-planning-fallacy|Как преодолеть ошибку планирования (planning fallacy)]]
+12. [[knowledge/project-management/12-critical-path|Построение критического пути (critical path)]]
+13. [[knowledge/project-management/13-budget-templates|Полезные шаблоны бюджета]]
+14. [[knowledge/project-management/14-budgeting-challenges|Преодоление сложностей бюджетирования]]
+15. [[knowledge/project-management/15-budgeting-terms|Введение в термины бюджетирования]]
+16. [[knowledge/project-management/16-risk-management-phases|Фазы управления рисками]]
+17. [[knowledge/project-management/17-dependency-relationships|Визуализация зависимостей между задачами]]
+18. [[knowledge/project-management/18-escalation-email|Как написать эффективное эскалационное письмо]]
+19. [[knowledge/project-management/19-quality-management|Основы управления качеством]]
+20. [[knowledge/project-management/20-agile-manifesto|Манифест Agile (Agile Manifesto)]]
+21. [[knowledge/project-management/21-scrum-principles|Базовые принципы Скрама (Scrum)]]
+22. [[knowledge/project-management/22-scrum-guide-2020|Руководство по Скраму 2020 (Scrum Guide)]]
+23. [[knowledge/project-management/23-scrum-team-roles|Сильные роли Скрам-команды (Scrum Team)]]
+24. [[knowledge/project-management/24-user-stories-and-epics|Элементы пользовательских историй (user stories) и эпиков (epics)]]
+25. [[knowledge/project-management/25-effort-estimation-techniques|Техники оценки трудозатрат в Agile]]
+26. [[knowledge/project-management/26-t-shirt-sizes-and-story-points|Размеры футболок (T-shirt sizes) и стори-пойнты (story points)]]
 
 ## Быстрые ссылки
 
-- [[knowledge/project-management/index|Открыть раздел Project Management]]
-- [[pm-study|Перейти в Product Management Cheatsheet]]
+- [[knowledge/project-management/index|Открыть раздел управления проектами (Project Management)]]
+- [[pm-study|Перейти в шпаргалку по продакт-менеджменту (Product Management)]]

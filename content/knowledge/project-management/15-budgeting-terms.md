@@ -1,6 +1,6 @@
 ---
-title: "Introduction to budgeting terms"
-description: "Раздел из Project Management Cheatsheet: Introduction to budgeting terms"
+title: "Введение в термины бюджетирования"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): термины бюджетирования"
 tags:
   - knowledge
   - project-management
@@ -10,20 +10,20 @@ aliases:
   - /project-management-study/15-budgeting-terms
 ---
 
-# Introduction to budgeting terms
+# Введение в термины бюджетирования
 
-## **Cash flow**
+## **Денежный поток (Cash flow)**
 
-## **CAPEX and OPEX**
+## **Капитальные и операционные расходы (CAPEX и OPEX)**
 
-## **Contingency reserves**
+## **Резервы на непредвиденные расходы (contingency reserves)**
 
-## **Management reserves**
+## **Управленческие резервы (management reserves)**
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/14-budgeting-challenges|Overcoming budgeting challenges]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/16-risk-management-phases|Phases of risk management]]
+- Назад: [[knowledge/project-management/14-budgeting-challenges|Преодоление сложностей бюджетирования]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/16-risk-management-phases|Фазы управления рисками]]

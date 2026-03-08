@@ -1,6 +1,6 @@
 ---
-title: "Gathering information to define scope"
-description: "Раздел из Project Management Cheatsheet: Gathering information to define scope"
+title: "Сбор информации для определения содержания проекта (scope)"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): определение содержания проекта"
 tags:
   - knowledge
   - project-management
@@ -10,26 +10,26 @@ aliases:
   - /project-management-study/04-defining-scope
 ---
 
-# Gathering information to define scope
+# Сбор информации для определения содержания проекта (scope)
 
-### Stakeholders
+### Заинтересованные стороны (Stakeholders)
 
-### Goals
+### Цели (Goals)
 
-### Deliverables
+### Результаты (Deliverables)
 
-### Resources
+### Ресурсы (Resources)
 
-### Budget
+### Бюджет (Budget)
 
-### Schedule
+### График (Schedule)
 
-### Flexibility
+### Гибкость (Flexibility)
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/03-creating-okrs|Creating OKRs for your project]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/05-controlling-scope-creep|Strategies for controlling scope creep]]
+- Назад: [[knowledge/project-management/03-creating-okrs|Создание целей и ключевых результатов (Objectives and Key Results, OKR) для проекта]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/05-controlling-scope-creep|Стратегии контроля расползания содержания (scope creep)]]

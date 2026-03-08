@@ -1,6 +1,6 @@
 ---
-title: "Prioritizing stakeholders and generating their buy-in"
-description: "Раздел из Project Management Cheatsheet: Prioritizing stakeholders and generating their buy-in"
+title: "Приоритизация заинтересованных сторон и получение их поддержки (buy-in)"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): приоритизация заинтересованных сторон"
 tags:
   - knowledge
   - project-management
@@ -10,34 +10,34 @@ aliases:
   - /project-management-study/07-stakeholder-prioritization-and-buy-in
 ---
 
-# Prioritizing stakeholders and generating their buy-in
+# Приоритизация заинтересованных сторон и получение их поддержки (buy-in)
 
-## **Conducting a stakeholder analysis**
+## **Проведение анализа заинтересованных сторон**
 
-## **Visualizing your analysis**
+## **Визуализация результатов анализа**
 
 ![[assets/Pasted image 20250605220343.png]]
 
-1. **Engagement and Involvement:**
+1. **Вовлечение и участие:**
 
-2. **Regular Communication:**
+2. **Регулярная коммуникация:**
 
-3. **Executive Summaries:**
+3. **Краткие сводки для руководства:**
 
-4. **Periodic Updates:**
+4. **Периодические обновления:**
 
-5. **Regular Updates:**
+5. **Плановые апдейты:**
 
-6. **Stakeholder Feedback:**
+6. **Обратная связь от заинтересованных сторон:**
 
-7. **General Communication:**
+7. **Общая коммуникация:**
 
-8. **Minimal Engagement:**
+8. **Минимальное вовлечение:**
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/06-essential-project-roles|Essential project roles]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/08-project-charters|Project charters: Elements and formats]]
+- Назад: [[knowledge/project-management/06-essential-project-roles|Ключевые роли проекта]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/08-project-charters|Устав проекта (Project Charter): элементы и форматы]]

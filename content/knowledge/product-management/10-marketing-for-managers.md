@@ -1,6 +1,6 @@
 ---
 title: "Маркетинг для менеджеров"
-description: "Раздел из Product Management Cheatsheet: Маркетинг для менеджеров"
+description: "Раздел из шпаргалки по продакт-менеджменту (Product Management Cheatsheet): Маркетинг для менеджеров"
 tags:
   - knowledge
   - product-management
@@ -12,7 +12,7 @@ aliases:
 
 # Маркетинг для менеджеров
 
-### GTM Cheatsheets
+### Шпаргалки по выводу на рынок (Go-To-Market, GTM)
 
 ![[assets/Pasted image 20250213160601.webp]]![[assets/Pasted image 20250213160622.webp]]
 ![[assets/Pasted image 20250213160551.webp]]
@@ -24,6 +24,6 @@ aliases:
 
 ## Навигация
 
-- Prev: [[knowledge/product-management/09-business-case|Расчет бизнес-кейса]]
-- [[pm-study|Наверх: Product Management Cheatsheet]]
-- Next: [[knowledge/product-management/11-stakeholder-approach|Подход к стейкхолдерам]]
+- Назад: [[knowledge/product-management/09-business-case|Расчет бизнес-кейса]]
+- [[pm-study|Наверх: Шпаргалка по продакт-менеджменту]]
+- Далее: [[knowledge/product-management/11-stakeholder-approach|Подход к стейкхолдерам]]

@@ -1,6 +1,6 @@
 ---
-title: "Essential project roles"
-description: "Раздел из Project Management Cheatsheet: Essential project roles"
+title: "Ключевые роли проекта"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): ключевые роли проекта"
 tags:
   - knowledge
   - project-management
@@ -10,20 +10,20 @@ aliases:
   - /project-management-study/06-essential-project-roles
 ---
 
-# Essential project roles
+# Ключевые роли проекта
 
-## **The project manager**
+## **Менеджер проекта (Project Manager)**
 
-## **Stakeholders**
+## **Заинтересованные стороны (Stakeholders)**
 
-## **Project team members**
+## **Участники команды проекта (Project Team Members)**
 
-## **Sponsor**
+## **Спонсор проекта (Sponsor)**
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/05-controlling-scope-creep|Strategies for controlling scope creep]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/07-stakeholder-prioritization-and-buy-in|Prioritizing stakeholders and generating their buy-in]]
+- Назад: [[knowledge/project-management/05-controlling-scope-creep|Стратегии контроля расползания содержания (scope creep)]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/07-stakeholder-prioritization-and-buy-in|Приоритизация заинтересованных сторон и получение их поддержки (buy-in)]]

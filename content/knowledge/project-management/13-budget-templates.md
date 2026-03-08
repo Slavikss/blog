@@ -1,6 +1,6 @@
 ---
-title: "Helpful budget templates"
-description: "Раздел из Project Management Cheatsheet: Helpful budget templates"
+title: "Полезные шаблоны бюджета"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): шаблоны бюджета"
 tags:
   - knowledge
   - project-management
@@ -10,16 +10,16 @@ aliases:
   - /project-management-study/13-budget-templates
 ---
 
-# Helpful budget templates
+# Полезные шаблоны бюджета
 
 ![[assets/Pasted image 20250605220541.webp]]
 
-[Microsoft Excel Website Budget Template](https://create.microsoft.com/en-us/template/website-budget-142337c5-35f0-4e42-ab85-0643840d738c) _(applicable to any project)_
+[Шаблон бюджета сайта в Microsoft Excel](https://create.microsoft.com/en-us/template/website-budget-142337c5-35f0-4e42-ab85-0643840d738c) _(подходит для любого проекта)_
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/12-critical-path|Creating a critical path]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/14-budgeting-challenges|Overcoming budgeting challenges]]
+- Назад: [[knowledge/project-management/12-critical-path|Построение критического пути (critical path)]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/14-budgeting-challenges|Преодоление сложностей бюджетирования]]

@@ -1,6 +1,6 @@
 ---
-title: "Lean and Six Sigma Methodologies"
-description: "Раздел из Project Management Cheatsheet: Lean and Six Sigma Methodologies"
+title: "Методологии бережливого подхода (Lean) и Six Sigma"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): Lean и Six Sigma"
 tags:
   - knowledge
   - project-management
@@ -10,18 +10,18 @@ aliases:
   - /project-management-study/02-lean-and-six-sigma
 ---
 
-# Lean and Six Sigma Methodologies
+# Методологии бережливого подхода (Lean) и Six Sigma
 
-## Lean Methodology
+## Методология Lean
 
-### Eight Types of Waste in Lean
+### Восемь видов потерь в Lean
 
-### Common Causes of Waste
+### Распространенные причины потерь
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/01-waterfall-and-agile|Comparing Waterfall and Agile Approaches]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/03-creating-okrs|Creating OKRs for your project]]
+- Назад: [[knowledge/project-management/01-waterfall-and-agile|Сравнение каскадного подхода (Waterfall) и гибкого подхода (Agile)]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/03-creating-okrs|Создание целей и ключевых результатов (Objectives and Key Results, OKR) для проекта]]

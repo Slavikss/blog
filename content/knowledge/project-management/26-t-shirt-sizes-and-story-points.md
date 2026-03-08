@@ -1,6 +1,6 @@
 ---
-title: "T-shirt sizes and story points"
-description: "Раздел из Project Management Cheatsheet: T-shirt sizes and story points"
+title: "Размеры футболок (T-shirt sizes) и стори-пойнты (story points)"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): T-shirt sizes и story points"
 tags:
   - knowledge
   - project-management
@@ -10,19 +10,19 @@ aliases:
   - /project-management-study/26-t-shirt-sizes-and-story-points
 ---
 
-# T-shirt sizes and story points
+# Размеры футболок (T-shirt sizes) и стори-пойнты (story points)
 
-## **T-shirt sizes**
+## **Размеры футболок (T-shirt sizes)**
 
 ![[assets/Pasted image 20250605220742.png]]
 
-## **Story points**
+## **Стори-пойнты (story points)**
 
-## **Best practices**
+## **Лучшие практики**
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/25-effort-estimation-techniques|Agile effort estimation techniques]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
+- Назад: [[knowledge/project-management/25-effort-estimation-techniques|Техники оценки трудозатрат в Agile]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]

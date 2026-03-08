@@ -1,6 +1,6 @@
 ---
 title: "Расчет бизнес-кейса"
-description: "Раздел из Product Management Cheatsheet: Расчет бизнес-кейса"
+description: "Раздел из шпаргалки по продакт-менеджменту (Product Management Cheatsheet): Расчет бизнес-кейса"
 tags:
   - knowledge
   - product-management
@@ -21,6 +21,6 @@ aliases:
 
 ## Навигация
 
-- Prev: [[knowledge/product-management/08-design-for-managers|Дизайн для менеджеров]]
-- [[pm-study|Наверх: Product Management Cheatsheet]]
-- Next: [[knowledge/product-management/10-marketing-for-managers|Маркетинг для менеджеров]]
+- Назад: [[knowledge/product-management/08-design-for-managers|Дизайн для менеджеров]]
+- [[pm-study|Наверх: Шпаргалка по продакт-менеджменту]]
+- Далее: [[knowledge/product-management/10-marketing-for-managers|Маркетинг для менеджеров]]

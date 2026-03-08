@@ -1,6 +1,6 @@
 ---
-title: "Comparing Waterfall and Agile Approaches"
-description: "Раздел из Project Management Cheatsheet: Comparing Waterfall and Agile Approaches"
+title: "Сравнение каскадного подхода (Waterfall) и гибкого подхода (Agile)"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): сравнение Waterfall и Agile"
 tags:
   - knowledge
   - project-management
@@ -10,23 +10,23 @@ aliases:
   - /project-management-study/01-waterfall-and-agile
 ---
 
-# Comparing Waterfall and Agile Approaches
+# Сравнение каскадного подхода (Waterfall) и гибкого подхода (Agile)
 
-## Waterfall vs Agile Comparison Table
+## Таблица сравнения Waterfall и Agile
 
-| Aspect                     | Waterfall                                                                                                                            | Agile                                                                                                                                          |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project Manager's Role** | Project manager serves as an active leader by prioritizing and assigning tasks to team members                                       | Scrum Master acts primarily as a facilitator, removing any barriers the team faces. Team shares more responsibility in managing their own work |
-| **Scope**                  | Project deliverables and plans are well-established and documented in early stages. Changes go through formal change request process | Planning happens in shorter iterations and focuses on delivering value quickly. Subsequent iterations are adjusted based on feedback           |
-| **Schedule**               | Follows a mostly linear path through initiating, planning, executing, and closing phases                                             | Time is organized into Sprints. Each Sprint has defined duration with planned deliverables                                                     |
-| **Cost**                   | Costs are controlled by careful upfront estimation and close monitoring throughout                                                   | Costs and schedule could change with each iteration                                                                                            |
-| **Quality**                | Project manager defines quality criteria and plans at project start                                                                  | Team solicits ongoing stakeholder input and implements regular improvements                                                                    |
-| **Communication**          | Project manager regularly communicates progress on milestones to stakeholders                                                        | Team maintains consistent communication between users and project team                                                                         |
-| **Stakeholders**           | Project manager actively manages stakeholder engagement                                                                              | Team frequently delivers to stakeholders and adjusts based on feedback                                                                         |
+| Аспект                                       | Waterfall                                                                                                                 | Agile                                                                                                                                                |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Роль менеджера проекта (Project Manager)** | Менеджер проекта выступает активным лидером: приоритизирует задачи и распределяет их между участниками команды            | Скрам-мастер (Scrum Master) в первую очередь фасилитирует процесс и убирает препятствия. Команда берет на себя больше ответственности за свою работу |
+| **Содержание проекта (Scope)**               | Результаты и планы проекта заранее подробно определены и документированы. Изменения проходят формальную процедуру запроса | Планирование идет короткими итерациями с фокусом на быстрой поставке ценности. Следующие итерации корректируются по обратной связи                   |
+| **График (Schedule)**                        | Проект в основном идет линейно через фазы инициации, планирования, исполнения и закрытия                                  | Время организовано в спринты (Sprint). У каждого спринта фиксированная длительность и запланированные результаты                                     |
+| **Стоимость (Cost)**                         | Расходы контролируются за счет точной предварительной оценки и постоянного мониторинга                                    | Стоимость и график могут меняться на каждой итерации                                                                                                 |
+| **Качество (Quality)**                       | Менеджер проекта определяет критерии и план качества в начале проекта                                                     | Команда регулярно собирает обратную связь от заинтересованных сторон и постоянно улучшает процесс                                                    |
+| **Коммуникация (Communication)**             | Менеджер проекта регулярно сообщает заинтересованным сторонам о прогрессе по вехам                                        | Команда поддерживает постоянную коммуникацию между пользователями и проектной командой                                                               |
+| **Заинтересованные стороны (Stakeholders)**  | Менеджер проекта активно управляет вовлечением заинтересованных сторон                                                    | Команда часто поставляет результат заинтересованным сторонам и адаптируется по их обратной связи                                                     |
 
 ---
 
 ## Навигация
 
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/02-lean-and-six-sigma|Lean and Six Sigma Methodologies]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/02-lean-and-six-sigma|Методологии бережливого подхода (Lean) и Six Sigma]]

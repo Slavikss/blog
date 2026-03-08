@@ -23,7 +23,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta({ showComma: false }),
     Component.TagList(),
     Component.MobileOnly(Component.Search()),
-    Component.MobileOnly(Component.Explorer({ useSavedState: true })),
     Component.MobileOnly(Component.TableOfContents()),
   ],
   left: [
@@ -71,19 +70,23 @@ export const defaultListPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta({ showComma: false }),
     Component.TagList(),
+    Component.MobileOnly(Component.Search()),
+    Component.MobileOnly(Component.TableOfContents()),
   ],
   left: [
     Component.PageTitle(),
-    Component.Search(),
     Component.Darkmode(),
-    Component.Explorer({ useSavedState: true }),
-    Component.RecentNotes({
-      title: "Что читать дальше",
-      limit: 10,
-      showTags: true,
-      linkToMore: false,
-      filter: (f) => f.slug !== "index",
-    }),
+    Component.DesktopOnly(Component.Search()),
+    Component.DesktopOnly(Component.Explorer({ useSavedState: true })),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "Что читать дальше",
+        limit: 10,
+        showTags: true,
+        linkToMore: false,
+        filter: (f) => f.slug !== "index",
+      }),
+    ),
   ],
   right: [Component.DesktopOnly(Component.TableOfContents())],
 }

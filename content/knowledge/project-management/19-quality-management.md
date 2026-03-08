@@ -1,6 +1,6 @@
 ---
-title: "Quality management concepts"
-description: "Раздел из Project Management Cheatsheet: Quality management concepts"
+title: "Основы управления качеством"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): управление качеством"
 tags:
   - knowledge
   - project-management
@@ -10,88 +10,88 @@ aliases:
   - /project-management-study/19-quality-management
 ---
 
-# Quality management concepts
+# Основы управления качеством
 
-## **The goals of UAT**
+## **Цели приемочного тестирования пользователями (User Acceptance Testing, UAT)**
 
-## **Best practices for effective UAT**
+## **Лучшие практики эффективного UAT**
 
-## **Managing UAT feedback**
+## **Управление обратной связью UAT**
 
-## Managing UAT Feedback
+## Управление обратной связью UAT
 
-### Addressing Different Types of Feedback
+### Работа с разными типами обратной связи
 
-#### Bugs and Issues
+#### Ошибки и дефекты
 
-**Tracking Process:**
+**Процесс трекинга:**
 
-#### Change Requests
+#### Запросы на изменения
 
-### Best Practices for UAT Feedback Management
+### Лучшие практики управления обратной связью UAT
 
-## Quality Management Concepts
+## Основы управления качеством
 
-### Core Quality Components
+### Базовые компоненты качества
 
-#### Quality Standards
+#### Стандарты качества
 
-#### Quality Planning
+#### Планирование качества
 
-#### Quality Assurance (QA)
+#### Обеспечение качества (Quality Assurance, QA)
 
-#### Quality Control (QC)
+#### Контроль качества (Quality Control, QC)
 
-## Process Improvement Methodologies
+## Методологии улучшения процессов
 
-### DMAIC Methodology
+### Методология DMAIC
 
-#### The Five Phases of DMAIC
+#### Пять фаз DMAIC
 
-1. **Define**
+1. **Определение (Define)**
 
-2. **Measure**
+2. **Измерение (Measure)**
 
-3. **Analyze**
+3. **Анализ (Analyze)**
 
-4. **Improve**
+4. **Улучшение (Improve)**
 
-### PDCA Cycle
+### Цикл PDCA
 
-#### Four Stages of PDCA
+#### Четыре этапа PDCA
 
-1. **Plan**
+1. **Планируй (Plan)**
 
-2. **Do**
+2. **Делай (Do)**
 
-3. **Check**
+3. **Проверяй (Check)**
 
-## Quality Management Implementation
+## Внедрение управления качеством
 
-### Best Practices for Quality Management
+### Лучшие практики управления качеством
 
-### Quality Tools and Techniques
+### Инструменты и техники качества
 
-#### Documentation
+#### Документация
 
-#### Measurement Tools
+#### Инструменты измерения
 
-### Quality Review Process
+### Процесс ревью качества
 
-### Continuous Improvement Cycle
+### Цикл непрерывных улучшений
 
-## Quality Management Integration
+## Интеграция управления качеством
 
-### Alignment with Project Management
+### Выравнивание с управлением проектами
 
-### Stakeholder Involvement
+### Вовлечение заинтересованных сторон
 
-### Documentation and Reporting
+### Документация и отчетность
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/18-escalation-email|Writing an effective escalation email]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/20-agile-manifesto|The Agile Manifesto]]
+- Назад: [[knowledge/project-management/18-escalation-email|Как написать эффективное эскалационное письмо]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/20-agile-manifesto|Манифест Agile (Agile Manifesto)]]

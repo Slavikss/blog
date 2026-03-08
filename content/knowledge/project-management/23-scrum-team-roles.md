@@ -1,6 +1,6 @@
 ---
-title: "Great Scrum Team Roles"
-description: "Раздел из Project Management Cheatsheet: Great Scrum Team Roles"
+title: "Сильные роли Скрам-команды (Scrum Team)"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): роли в Scrum Team"
 tags:
   - knowledge
   - project-management
@@ -10,24 +10,24 @@ aliases:
   - /project-management-study/23-scrum-team-roles
 ---
 
-# Great Scrum Team Roles
+# Сильные роли Скрам-команды (Scrum Team)
 
-## Product Owner
+## Владелец продукта (Product Owner)
 
-## A Great Product Owner ...
+## Сильный владелец продукта ...
 
-## Scrum Master
+## Скрам-мастер (Scrum Master)
 
-## A Great Scrum Master ...
+## Сильный скрам-мастер ...
 
-## Development Team
+## Команда разработки (Development Team)
 
-## A Great Development Team ...
+## Сильная команда разработки ...
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/22-scrum-guide-2020|The 2020 Scrum GuideTM]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/24-user-stories-and-epics|The elements of user stories and epics]]
+- Назад: [[knowledge/project-management/22-scrum-guide-2020|Руководство по Скраму 2020 (Scrum Guide)]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/24-user-stories-and-epics|Элементы пользовательских историй (user stories) и эпиков (epics)]]

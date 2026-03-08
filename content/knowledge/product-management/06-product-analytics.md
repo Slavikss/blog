@@ -1,6 +1,6 @@
 ---
 title: "Продуктовая аналитика"
-description: "Раздел из Product Management Cheatsheet: Продуктовая аналитика"
+description: "Раздел из шпаргалки по продакт-менеджменту (Product Management Cheatsheet): Продуктовая аналитика"
 tags:
   - knowledge
   - product-management
@@ -42,16 +42,16 @@ aliases:
 - Доля платящих(какая часть новых пользователей заплатит в продукте)
 - Прибыль с платящего(сколько срдений платящий пользователь приносит прибыли за всё время пользования продуктом)
 - конверсия новых пользователей в платящих пользователей
-- ARRPU(Average revenue per paying user)
+- ARRPU (Average Revenue Per Paying User, средняя выручка на платящего пользователя)
 - CPI(cost per Install) - средняя стоимость за установку
 - CAC(customer acquisition cost) - средняя стоимость привлечения пользователя
 
 Метрики роста:
 
-- DAU, MAU etc
+- DAU, MAU и другие метрики активности
 - Revenue
 - Time Spent per DAU(сколько времени средний активный пользователь проводит в продукте в день)
-- New Users
+- Новые пользователи (New Users)
 
 ### **Вопросы, на которые отвечают метрики роста и метрики продукта**
 
@@ -187,7 +187,7 @@ C метрикой LTV есть сложность – она характери
 
 [Доска в Miro с наглядной структурой подсчета юнит экономики](https://miro.com/app/board/uXjVLhkaqRU=/?share_link_id=242911968157)
 
-### **ROI(ROMI) - Return on (Marketing) Investment**
+### **ROI (ROMI) — окупаемость инвестиций в маркетинг (Return on Marketing Investment)**
 
 $$
 ROI = \frac{Валовая \ прибыль \ из \ рекламного \ канала - Затраты \ на \ рекламный \ канал}{Затраты \ на \ рекламный \ канал}
@@ -205,7 +205,7 @@ $$
 
 где
 `Знакомый LTV`
-`CPA(CAC) - Cost per Acquisition `
+`CPA (CAC) — стоимость привлечения пользователя (Cost per Acquisition)`
 
 $$
 CPA = \frac{затраты \ на \ канал}{число \ новых \ пользователей \ из \ канала}
@@ -317,8 +317,8 @@ $$
 >     75% бесплатных игр Google Play имеют CTR выше (75% percentile) – 25%
 >     75% бесплатных приложений в Google Play имеют CTR выше (75% percentile) – 40%
 > 6.  **Конверсии email-рассылок**
->     Open rate = 20%
->     Click rate = 2.5%
+>     Открываемость (Open rate) = 20%
+>     Кликабельность (Click rate) = 2.5%
 > 7.  **1. Конверсия в платящего пользователя для бесплатных мобильных игр**
 >     Средняя – 1-2%
 >     Хорошие игры – 3-5%
@@ -331,6 +331,6 @@ $$
 
 ## Навигация
 
-- Prev: [[knowledge/product-management/05-product-approaches|Продуктовые подходы]]
-- [[pm-study|Наверх: Product Management Cheatsheet]]
-- Next: [[knowledge/product-management/07-strategy-creation|Создание стратегии]]
+- Назад: [[knowledge/product-management/05-product-approaches|Продуктовые подходы]]
+- [[pm-study|Наверх: Шпаргалка по продакт-менеджменту]]
+- Далее: [[knowledge/product-management/07-strategy-creation|Создание стратегии]]

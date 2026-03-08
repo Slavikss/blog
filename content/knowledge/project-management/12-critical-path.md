@@ -1,6 +1,6 @@
 ---
-title: "Creating a critical path"
-description: "Раздел из Project Management Cheatsheet: Creating a critical path"
+title: "Построение критического пути (critical path)"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): построение критического пути"
 tags:
   - knowledge
   - project-management
@@ -10,82 +10,82 @@ aliases:
   - /project-management-study/12-critical-path
 ---
 
-# Creating a critical path
+# Построение критического пути (critical path)
 
-## **How to create a critical path**
+## **Как построить критический путь**
 
-### **Step 1: Capture all tasks**
+### **Шаг 1: Зафиксируйте все задачи**
 
-| **Task**                                             |
-| ---------------------------------------------------- |
-| A) Excavation                                        |
-| B) Foundation                                        |
-| C) Framing                                           |
-| D) Roof                                              |
-| E) Plumbing                                          |
-| F) Heating, ventilation, and air conditioning (HVAC) |
-| G) Electrical                                        |
-| H) Insulation                                        |
-| I) Drywall + Paint                                   |
-| J) Flooring                                          |
+| **Задача**                                                                                      |
+| ----------------------------------------------------------------------------------------------- |
+| A) Земляные работы                                                                              |
+| B) Фундамент                                                                                    |
+| C) Каркас                                                                                       |
+| D) Крыша                                                                                        |
+| E) Сантехника                                                                                   |
+| F) Отопление, вентиляция и кондиционирование (Heating, Ventilation, and Air Conditioning, HVAC) |
+| G) Электрика                                                                                    |
+| H) Изоляция                                                                                     |
+| I) Гипсокартон + покраска                                                                       |
+| J) Напольное покрытие                                                                           |
 
-### **Step 2: Set dependencies**
+### **Шаг 2: Задайте зависимости**
 
-| **Task**           | **Dependency**                      |
-| ------------------ | ----------------------------------- |
-| A) Excavation      |                                     |
-| B) Foundation      | A) Excavation                       |
-| C) Framing         | B) Foundation                       |
-| D) Roof            | C) Framing                          |
-| E) Plumbing        | C) Framing                          |
-| F) HVAC            | C) Framing                          |
-| G) Electrical      | C) Framing                          |
-| H) Insulation      | E) Plumbing, F) HVAC, G) Electrical |
-| I) Drywall + Paint | H) Insulation                       |
-| J) Flooring        | I) Drywall + Paint                  |
+| **Задача**                | **Зависимость**                      |
+| ------------------------- | ------------------------------------ |
+| A) Земляные работы        |                                      |
+| B) Фундамент              | A) Земляные работы                   |
+| C) Каркас                 | B) Фундамент                         |
+| D) Крыша                  | C) Каркас                            |
+| E) Сантехника             | C) Каркас                            |
+| F) HVAC                   | C) Каркас                            |
+| G) Электрика              | C) Каркас                            |
+| H) Изоляция               | E) Сантехника, F) HVAC, G) Электрика |
+| I) Гипсокартон + покраска | H) Изоляция                          |
+| J) Напольное покрытие     | I) Гипсокартон + покраска            |
 
-### **Step 3: Create a network diagram**
+### **Шаг 3: Постройте сетевую диаграмму**
 
 ![[assets/Pasted image 20250605220523.png]]
 
-### **Step 4: Make time estimates**
+### **Шаг 4: Оцените длительность**
 
-| **Task**           | **Duration** | **Dependency**                      |
-| ------------------ | ------------ | ----------------------------------- |
-| A) Excavation      | 1 Day        |                                     |
-| B) Foundation      | 3 Days       | A) Excavation                       |
-| C) Framing         | 15 Days      | B) Foundation                       |
-| D) Roof            | 3 Days       | C) Framing                          |
-| E) Plumbing        | 4 Days       | C) Framing                          |
-| F) HVAC            | 3 Days       | C) Framing                          |
-| G) Electrical      | 3 Days       | C) Framing                          |
-| H) Insulation      | 2 Days       | E) Plumbing, F) HVAC, G) Electrical |
-| I) Drywall + Paint | 15 Days      | H) Insulation                       |
-| J) Flooring        | 7 Days       | I) Drywall + Paint                  |
+| **Задача**                | **Длительность** | **Зависимость**                      |
+| ------------------------- | ---------------- | ------------------------------------ |
+| A) Земляные работы        | 1 день           |                                      |
+| B) Фундамент              | 3 дня            | A) Земляные работы                   |
+| C) Каркас                 | 15 дней          | B) Фундамент                         |
+| D) Крыша                  | 3 дня            | C) Каркас                            |
+| E) Сантехника             | 4 дня            | C) Каркас                            |
+| F) HVAC                   | 3 дня            | C) Каркас                            |
+| G) Электрика              | 3 дня            | C) Каркас                            |
+| H) Изоляция               | 2 дня            | E) Сантехника, F) HVAC, G) Электрика |
+| I) Гипсокартон + покраска | 15 дней          | H) Изоляция                          |
+| J) Напольное покрытие     | 7 дней           | I) Гипсокартон + покраска            |
 
 ![[assets/Pasted image 20250605220531.png]]
 
-### **Step 5: Find the critical path**
+### **Шаг 5: Найдите критический путь**
 
-- [How to Use the Critical Path Method for Complete Beginners](https://www.workamajig.com/blog/critical-path-method)
-- [Critical Path Method: A Project Management Essential](https://www.wrike.com/blog/critical-path-is-easy-as-123/)
+- [Как использовать метод критического пути (Critical Path Method) для начинающих](https://www.workamajig.com/blog/critical-path-method)
+- [Метод критического пути: ключевой инструмент управления проектами](https://www.wrike.com/blog/critical-path-is-easy-as-123/)
 
-## **Project budgeting best practices**
+## **Лучшие практики бюджетирования проекта**
 
-## **Categorize different types of costs**
+## **Категоризируйте различные типы затрат**
 
-### **Direct costs**
+### **Прямые затраты**
 
-### **Indirect costs**
+### **Косвенные затраты**
 
-## **Develop a baseline budget**
+## **Сформируйте базовый бюджет**
 
-## **Perform a reserve analysis**
+## **Выполните анализ резервов**
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/11-planning-fallacy|Overcoming the planning fallacy]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/13-budget-templates|Helpful budget templates]]
+- Назад: [[knowledge/project-management/11-planning-fallacy|Как преодолеть ошибку планирования (planning fallacy)]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/13-budget-templates|Полезные шаблоны бюджета]]

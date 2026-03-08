@@ -1,6 +1,6 @@
 ---
 title: "Дизайн для менеджеров"
-description: "Раздел из Product Management Cheatsheet: Дизайн для менеджеров"
+description: "Раздел из шпаргалки по продакт-менеджменту (Product Management Cheatsheet): Дизайн для менеджеров"
 tags:
   - knowledge
   - product-management
@@ -53,6 +53,6 @@ Wireframes имеют ограниченные визуальные характ
 
 ## Навигация
 
-- Prev: [[knowledge/product-management/07-strategy-creation|Создание стратегии]]
-- [[pm-study|Наверх: Product Management Cheatsheet]]
-- Next: [[knowledge/product-management/09-business-case|Расчет бизнес-кейса]]
+- Назад: [[knowledge/product-management/07-strategy-creation|Создание стратегии]]
+- [[pm-study|Наверх: Шпаргалка по продакт-менеджменту]]
+- Далее: [[knowledge/product-management/09-business-case|Расчет бизнес-кейса]]

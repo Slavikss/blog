@@ -1,6 +1,6 @@
 ---
-title: "The elements of user stories and epics"
-description: "Раздел из Project Management Cheatsheet: The elements of user stories and epics"
+title: "Элементы пользовательских историй (user stories) и эпиков (epics)"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): user stories и epics"
 tags:
   - knowledge
   - project-management
@@ -10,13 +10,13 @@ aliases:
   - /project-management-study/24-user-stories-and-epics
 ---
 
-# The elements of user stories and epics
+# Элементы пользовательских историй (user stories) и эпиков (epics)
 
-## **User stories**
+## **Пользовательские истории (User stories)**
 
-## **I.N.V.E.S.T.** 
+## **I.N.V.E.S.T.**
 
-## **Epics**
+## **Эпики (Epics)**
 
 ![[assets/Pasted image 20250605220733.png]]
 
@@ -24,6 +24,6 @@ aliases:
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/23-scrum-team-roles|Great Scrum Team Roles]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/25-effort-estimation-techniques|Agile effort estimation techniques]]
+- Назад: [[knowledge/project-management/23-scrum-team-roles|Сильные роли Скрам-команды (Scrum Team)]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/25-effort-estimation-techniques|Техники оценки трудозатрат в Agile]]

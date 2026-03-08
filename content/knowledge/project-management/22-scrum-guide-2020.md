@@ -1,6 +1,6 @@
 ---
-title: "The 2020 Scrum GuideTM"
-description: "Раздел из Project Management Cheatsheet: The 2020 Scrum GuideTM"
+title: "Руководство по Скраму 2020 (Scrum Guide)"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): Scrum Guide 2020"
 tags:
   - knowledge
   - project-management
@@ -10,70 +10,70 @@ aliases:
   - /project-management-study/22-scrum-guide-2020
 ---
 
-# The 2020 Scrum GuideTM
+# Руководство по Скраму 2020 (Scrum Guide)
 
-## Purpose of the Scrum Guide
+## Назначение руководства по Скраму (Scrum Guide)
 
-## Scrum Definition
+## Определение Скрама (Scrum)
 
-## Scrum Theory
+## Теория Скрама
 
-### Transparency
+### Прозрачность
 
-### Inspection
+### Инспекция
 
-### Adaptation
+### Адаптация
 
-## Scrum Values
+## Ценности Скрама
 
-## Scrum Team
+## Скрам-команда (Scrum Team)
 
-### Developers
+### Разработчики (Developers)
 
-### Product Owner
+### Владелец продукта (Product Owner)
 
-### Scrum Master
+### Скрам-мастер (Scrum Master)
 
-## Scrum Events
+## События Скрама (Scrum Events)
 
-### The Sprint
+### Спринт (Sprint)
 
-During the Sprint:
+Во время спринта:
 
-### Sprint Planning
+### Планирование спринта (Sprint Planning)
 
-#### Topic One: Why is this Sprint valuable?
+#### Тема 1: Почему этот спринт ценен?
 
-#### Topic Two: What can be Done this Sprint?
+#### Тема 2: Что можно сделать в этом спринте?
 
-#### Topic Three: How will the chosen work get done?
+#### Тема 3: Как будет выполнена выбранная работа?
 
-### Daily Scrum
+### Ежедневный скрам (Daily Scrum)
 
-### Sprint Review
+### Обзор спринта (Sprint Review)
 
-### Sprint Retrospective
+### Ретроспектива спринта (Sprint Retrospective)
 
-## Scrum Artifacts
+## Артефакты Скрама (Scrum Artifacts)
 
-### Product Backlog
+### Бэклог продукта (Product Backlog)
 
-#### Commitment: Product Goal
+#### Обязательство: Цель продукта (Product Goal)
 
-### Sprint Backlog
+### Бэклог спринта (Sprint Backlog)
 
-#### Commitment: Sprint Goal
+#### Обязательство: Цель спринта (Sprint Goal)
 
-### Increment
+### Инкремент (Increment)
 
-#### Commitment: Definition of Done
+#### Обязательство: Определение готовности (Definition of Done)
 
-## End Note
+## Заключение
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/21-scrum-principles|The founding principles of Scrum]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/23-scrum-team-roles|Great Scrum Team Roles]]
+- Назад: [[knowledge/project-management/21-scrum-principles|Базовые принципы Скрама (Scrum)]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/23-scrum-team-roles|Сильные роли Скрам-команды (Scrum Team)]]

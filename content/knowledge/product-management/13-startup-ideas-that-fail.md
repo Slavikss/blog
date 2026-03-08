@@ -1,6 +1,6 @@
 ---
 title: "Очевидные идеи стартапов, которые не летят"
-description: "Раздел из Product Management Cheatsheet: Очевидные идеи стартапов, которые не летят"
+description: "Раздел из шпаргалки по продакт-менеджменту (Product Management Cheatsheet): Очевидные идеи стартапов, которые не летят"
 tags:
   - knowledge
   - product-management
@@ -12,12 +12,12 @@ aliases:
 
 # Очевидные идеи стартапов, которые не летят
 
-> [!quote] coming soon
+> [!quote] Скоро здесь появится разбор
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/product-management/12-team-management|Команда]]
-- [[pm-study|Наверх: Product Management Cheatsheet]]
-- Next: [[knowledge/product-management/14-life-as-product-management|Жизнь как управление продуктом]]
+- Назад: [[knowledge/product-management/12-team-management|Команда]]
+- [[pm-study|Наверх: Шпаргалка по продакт-менеджменту]]
+- Далее: [[knowledge/product-management/14-life-as-product-management|Жизнь как управление продуктом]]

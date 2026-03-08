@@ -1,6 +1,6 @@
 ---
-title: "Creating OKRs for your project"
-description: "Раздел из Project Management Cheatsheet: Creating OKRs for your project"
+title: "Создание целей и ключевых результатов (Objectives and Key Results, OKR) для проекта"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): создание OKR для проекта"
 tags:
   - knowledge
   - project-management
@@ -10,80 +10,80 @@ aliases:
   - /project-management-study/03-creating-okrs
 ---
 
-# Creating OKRs for your project
+# Создание целей и ключевых результатов (Objectives and Key Results, OKR) для проекта
 
-## **What are OKRs?**
+## **Что такое OKR?**
 
-## **OKRs and project management**
+## **OKR и управление проектами (Project Management)**
 
-## **Creating OKRs for your project**
+## **Как создать OKR для вашего проекта**
 
-### **Set your objectives**
+### **Определите цели (Objectives)**
 
-**Examples:**
+**Примеры:**
 
-### **Develop key results**
+### **Сформулируйте ключевые результаты (Key Results)**
 
-**Examples:**
+**Примеры:**
 
-## **OKR development best practices**
+## **Лучшие практики разработки OKR**
 
-## **OKRs versus SMART goals**
+## **OKR и SMART-цели (SMART goals): в чем разница**
 
-- [Google's OKR playbook](https://www.whatmatters.com/resources/google-okr-playbook/)
-- [Planning company goals](https://asana.com/guide/examples/project-management/goals-okrs-planning)
-- [OKRs and SMART goals: What's the difference?](https://www.whatmatters.com/resources/okrs-smart-goals-difference-between/)
-- [OKRs and KPIs: What They Are and How They Work Together](https://www.reflektive.com/blog/okrs-and-kpis-what-they-are-and-how-they-work-together/)
-- [How OKR and project management work together](https://www.perdoo.com/resources/okr-and-project-management/)
-- [OKR Examples](https://www.workfront.com/strategic-planning/goals/okr/okr-examples)
-- [OKR TED Talk](https://www.youtube.com/watch?v=L4N1q4RNi9I) video (John Doerr, the founder of OKRs, explains why the secret to success is setting the right goals.)
+- [Плейбук Google по OKR](https://www.whatmatters.com/resources/google-okr-playbook/)
+- [Планирование целей компании](https://asana.com/guide/examples/project-management/goals-okrs-planning)
+- [OKR и SMART-цели: в чем разница?](https://www.whatmatters.com/resources/okrs-smart-goals-difference-between/)
+- [OKR и KPI: что это и как они работают вместе](https://www.reflektive.com/blog/okrs-and-kpis-what-they-are-and-how-they-work-together/)
+- [Как OKR и управление проектами работают вместе](https://www.perdoo.com/resources/okr-and-project-management/)
+- [Примеры OKR](https://www.workfront.com/strategic-planning/goals/okr/okr-examples)
+- [TED Talk об OKR](https://www.youtube.com/watch?v=L4N1q4RNi9I) (Джон Дорр, основатель OKR, объясняет, почему секрет успеха в правильной постановке целей.)
 
-## **Key Differences Between KPI and OKR**
+## **Ключевые различия между KPI и OKR**
 
-|                      | **KPI (Key Performance Indicator)**                      | **OKR (Objectives and Key Results)**                      |
-| -------------------- | -------------------------------------------------------- | --------------------------------------------------------- |
-| **What it is**       | A **metric** to measure performance                      | A **goal-setting framework** for achieving strategic aims |
-| **Purpose**          | Track **efficiency and stability** of operations         | Drive **focus, alignment, and growth**                    |
-| **Structure**        | A number or percentage target                            | One **Objective** with 2–5 **measurable Key Results**     |
-| **Ambition level**   | Targets are meant to be **consistently achieved**        | Designed to be **ambitious** (70–80% completion is OK)    |
-| **Review frequency** | Ongoing, tracked **weekly/monthly**                      | Set **quarterly or annually**                             |
-| **Use case**         | Operational performance monitoring (e.g. sales, support) | Strategic alignment across teams and initiatives          |
+|                         | **KPI (ключевой показатель эффективности, Key Performance Indicator)** | **OKR (цели и ключевые результаты, Objectives and Key Results)**        |
+| ----------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **Что это**             | **метрика** для измерения результативности                             | **фреймворк постановки целей** для достижения стратегических ориентиров |
+| **Цель**                | Отслеживать **эффективность и стабильность** операций                  | Усиливать **фокус, согласованность и рост**                             |
+| **Структура**           | Числовой или процентный целевой показатель                             | Одна **цель (Objective)** и 2-5 **измеримых ключевых результатов**      |
+| **Уровень амбиций**     | Цели должны **достигаться стабильно**                                  | Подход предполагает **амбициозность** (70-80% выполнения приемлемо)     |
+| **Частота ревью**       | Непрерывно, обычно **еженедельно/ежемесячно**                          | Обычно задаются **ежеквартально или ежегодно**                          |
+| **Сценарий применения** | Операционный мониторинг (например, продажи, поддержка)                 | Стратегическое выравнивание между командами и инициативами              |
 
-## **How to Combine OKRs and KPIs Effectively**
+## **Как эффективно сочетать OKR и KPI**
 
-### **Step 1: Translate the CEO's Directive into Company-Wide OKRs**
+### **Шаг 1: Преобразуйте директиву CEO в OKR уровня компании**
 
-Example CEO goal:
+Пример цели CEO:
 
-**Company OKR Example:**
+**Пример OKR компании:**
 
-### **Step 2: Cascade OKRs from Company → Departments → Teams → Individuals**
+### **Шаг 2: Каскадируйте OKR: компания → департаменты → команды → сотрудники**
 
-| **Level**  | **Type**             | **Example Objective**                     |
-| ---------- | -------------------- | ----------------------------------------- |
-| Company    | Strategic OKRs       | "Become market leader in service"         |
-| Department | Tactical OKRs        | "Enhance support efficiency"              |
-| Team       | Team OKRs            | "Automate ticket handling workflows"      |
-| Individual | Personal OKRs & KPIs | "Resolve 40+ tickets/day with CSAT ≥ 4.8" |
+| **Уровень** | **Тип**                | **Пример цели (Objective)**                |
+| ----------- | ---------------------- | ------------------------------------------ |
+| Компания    | Стратегические OKR     | "Стать лидером рынка по сервису"           |
+| Департамент | Тактические OKR        | "Повысить эффективность поддержки"         |
+| Команда     | Командные OKR          | "Автоматизировать обработку тикетов"       |
+| Сотрудник   | Персональные OKR и KPI | "Решать 40+ тикетов в день при CSAT ≥ 4.8" |
 
-### **Step 3: Link KPIs to OKRs for Performance Tracking**
+### **Шаг 3: Свяжите KPI с OKR для отслеживания эффективности**
 
-| **OKR Key Result**             | **Supporting KPI**                 |
-| ------------------------------ | ---------------------------------- |
-| Raise CSAT to 92%              | Weekly customer satisfaction score |
-| Reduce response time to 1 hour | Average ticket response time       |
-| Grow repeat purchases by 20%   | Customer retention rate, LTV       |
+| **Ключевой результат OKR**         | **Поддерживающий KPI**                |
+| ---------------------------------- | ------------------------------------- |
+| Повысить CSAT до 92%               | Еженедельный индекс удовлетворенности |
+| Сократить время ответа до 1 часа   | Среднее время ответа по тикетам       |
+| Увеличить повторные покупки на 20% | Коэффициент удержания и LTV           |
 
-### **Step 4: Use Tools and Dashboards for Visibility**
+### **Шаг 4: Используйте инструменты и дашборды для прозрачности**
 
-### **Step 5: Communicate Clearly and Engage Teams**
+### **Шаг 5: Коммуницируйте ясно и вовлекайте команды**
 
-### ** In Summary:**
+### **Итог:**
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/02-lean-and-six-sigma|Lean and Six Sigma Methodologies]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/04-defining-scope|Gathering information to define scope]]
+- Назад: [[knowledge/project-management/02-lean-and-six-sigma|Методологии бережливого подхода (Lean) и Six Sigma]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/04-defining-scope|Сбор информации для определения содержания проекта (scope)]]

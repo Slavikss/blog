@@ -1,6 +1,6 @@
 ---
-title: "Phases of risk management"
-description: "Раздел из Project Management Cheatsheet: Phases of risk management"
+title: "Фазы управления рисками"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): фазы управления рисками"
 tags:
   - knowledge
   - project-management
@@ -10,24 +10,24 @@ aliases:
   - /project-management-study/16-risk-management-phases
 ---
 
-# Phases of risk management
+# Фазы управления рисками
 
-## Four types of Risk mitigation
+## Четыре типа снижения риска (risk mitigation)
 
 ![[assets/Pasted image 20250605220552.webp]]
 
-### **Avoid**
+### **Избежать (Avoid)**
 
-### **Minimize**
+### **Минимизировать (Minimize)**
 
-### **Transfer**
+### **Передать (Transfer)**
 
-### **Accept**
+### **Принять (Accept)**
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/15-budgeting-terms|Introduction to budgeting terms]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/17-dependency-relationships|Visualizing dependency relationships]]
+- Назад: [[knowledge/project-management/15-budgeting-terms|Введение в термины бюджетирования]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/17-dependency-relationships|Визуализация зависимостей между задачами]]

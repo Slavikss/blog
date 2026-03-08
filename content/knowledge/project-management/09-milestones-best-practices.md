@@ -1,6 +1,6 @@
 ---
-title: "Setting milestones: Best practices"
-description: "Раздел из Project Management Cheatsheet: Setting milestones: Best practices"
+title: "Постановка вех (milestones): лучшие практики"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): постановка вех"
 tags:
   - knowledge
   - project-management
@@ -10,18 +10,18 @@ aliases:
   - /project-management-study/09-milestones-best-practices
 ---
 
-# Setting milestones: Best practices
+# Постановка вех (milestones): лучшие практики
 
 ![[assets/Pasted image 20250605220434.webp]]
 
-## **Set tasks to identify milestones**
+## **Определите задачи для выделения вех**
 
-## **Milestone-setting pitfalls**
+## **Типичные ошибки при постановке вех**
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/08-project-charters|Project charters: Elements and formats]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/10-work-breakdown-structure|Breaking down the work breakdown structure]]
+- Назад: [[knowledge/project-management/08-project-charters|Устав проекта (Project Charter): элементы и форматы]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/10-work-breakdown-structure|Декомпозиция иерархической структуры работ (Work Breakdown Structure, WBS)]]

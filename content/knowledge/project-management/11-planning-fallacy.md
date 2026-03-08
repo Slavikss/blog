@@ -1,6 +1,6 @@
 ---
-title: "Overcoming the planning fallacy"
-description: "Раздел из Project Management Cheatsheet: Overcoming the planning fallacy"
+title: "Как преодолеть ошибку планирования (planning fallacy)"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): ошибка планирования"
 tags:
   - knowledge
   - project-management
@@ -10,24 +10,24 @@ aliases:
   - /project-management-study/11-planning-fallacy
 ---
 
-# Overcoming the planning fallacy
+# Как преодолеть ошибку планирования (planning fallacy)
 
-## **The planning fallacy and optimism bias**
+## **Ошибка планирования и оптимистическое искажение (optimism bias)**
 
-## **Avoiding the planning fallacy: A case study**
+## **Как избежать ошибки планирования: разбор кейса**
 
 ![[assets/Pasted image 20250605220511.png]]
 
-| **Task**     | **Estimated Duration** |
-| ------------ | ---------------------- |
-| Foundation   | 2 weeks                |
-| Construction | 4 weeks                |
-| Adjustments  | 4 weeks                |
+| **Задача**          | **Оценочная длительность** |
+| ------------------- | -------------------------- |
+| Фундамент           | 2 недели                   |
+| Строительные работы | 4 недели                   |
+| Доработки           | 4 недели                   |
 
 ---
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/10-work-breakdown-structure|Breaking down the work breakdown structure]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/12-critical-path|Creating a critical path]]
+- Назад: [[knowledge/project-management/10-work-breakdown-structure|Декомпозиция иерархической структуры работ (Work Breakdown Structure, WBS)]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/12-critical-path|Построение критического пути (critical path)]]

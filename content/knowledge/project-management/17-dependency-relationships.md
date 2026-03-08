@@ -1,6 +1,6 @@
 ---
-title: "Visualizing dependency relationships"
-description: "Раздел из Project Management Cheatsheet: Visualizing dependency relationships"
+title: "Визуализация зависимостей между задачами"
+description: "Раздел из шпаргалки по управлению проектами (Project Management): зависимости между задачами"
 tags:
   - knowledge
   - project-management
@@ -10,23 +10,23 @@ aliases:
   - /project-management-study/17-dependency-relationships
 ---
 
-# Visualizing dependency relationships
+# Визуализация зависимостей между задачами
 
-## **Types of dependencies**
+## **Типы зависимостей**
 
-### **Finish to Start (FS)**
+### **Окончание -> начало (Finish to Start, FS)**
 
 ![[assets/Pasted image 20250605220600.png]]
 
-### **Finish to Finish (FF)**
+### **Окончание -> окончание (Finish to Finish, FF)**
 
 ![[assets/Pasted image 20250605220612.png]]
 
-### **Start to Start (SS)**
+### **Начало -> начало (Start to Start, SS)**
 
 ![[assets/Pasted image 20250605220623.png]]
 
-### **Start to Finish (SF)**
+### **Начало -> окончание (Start to Finish, SF)**
 
 ![[assets/Pasted image 20250605220631.png]]
 
@@ -34,6 +34,6 @@ aliases:
 
 ## Навигация
 
-- Prev: [[knowledge/project-management/16-risk-management-phases|Phases of risk management]]
-- [[project-management-study|Наверх: Project Management Cheatsheet]]
-- Next: [[knowledge/project-management/18-escalation-email|Writing an effective escalation email]]
+- Назад: [[knowledge/project-management/16-risk-management-phases|Фазы управления рисками]]
+- [[project-management-study|Наверх: Шпаргалка по управлению проектами (Project Management)]]
+- Далее: [[knowledge/project-management/18-escalation-email|Как написать эффективное эскалационное письмо]]

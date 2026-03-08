@@ -1,6 +1,6 @@
 ---
-title: "Product Management Knowledge Base"
-description: "Навигационный раздел по Product Management"
+title: "База знаний по продакт-менеджменту (Product Management Knowledge Base)"
+description: "Навигационный раздел по продакт-менеджменту (Product Management)"
 tags:
   - knowledge
   - product-management
@@ -10,11 +10,11 @@ aliases:
   - /knowledge/product-management/index
 ---
 
-# Product Management Knowledge Base
+# База знаний по продакт-менеджменту
 
-Структурированный справочник по Product Management.
+Структурированный справочник по продакт-менеджменту (Product Management).
 
-1. [[knowledge/product-management/01-who-is-product-manager|Кто такой product manager]]
+1. [[knowledge/product-management/01-who-is-product-manager|Кто такой продакт-менеджер]]
 2. [[knowledge/product-management/02-product-processes-in-companies|Как отстроены продуктовые процессы в компаниях]]
 3. [[knowledge/product-management/03-idea-discovery-and-validation|Поиск идей]]
 4. [[knowledge/product-management/04-market-research|Анализ рынка]]

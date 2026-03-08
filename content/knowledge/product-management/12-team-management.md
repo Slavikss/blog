@@ -1,6 +1,6 @@
 ---
 title: "Команда"
-description: "Раздел из Product Management Cheatsheet: Команда"
+description: "Раздел из шпаргалки по продакт-менеджменту (Product Management Cheatsheet): Команда"
 tags:
   - knowledge
   - product-management
@@ -52,6 +52,6 @@ aliases:
 
 ## Навигация
 
-- Prev: [[knowledge/product-management/11-stakeholder-approach|Подход к стейкхолдерам]]
-- [[pm-study|Наверх: Product Management Cheatsheet]]
-- Next: [[knowledge/product-management/13-startup-ideas-that-fail|Очевидные идеи стартапов, которые не летят]]
+- Назад: [[knowledge/product-management/11-stakeholder-approach|Подход к стейкхолдерам]]
+- [[pm-study|Наверх: Шпаргалка по продакт-менеджменту]]
+- Далее: [[knowledge/product-management/13-startup-ideas-that-fail|Очевидные идеи стартапов, которые не летят]]
