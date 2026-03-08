@@ -1,27 +1,16 @@
 ---
-title: "Project Management Cheatsheet"
-description: "Модульная база знаний по Project Management от Славы"
+title: "Project Management Knowledge Base"
+description: "Навигационный раздел по Project Management"
 tags:
   - knowledge
   - project-management
-  - hub
+  - index
 draft: false
 aliases:
-  - /knowledge/project-management
+  - /knowledge/project-management/index
 ---
 
-# Справочник по Project Management
-
-Лонгрид переведен в модульную структуру: теперь это хаб с темами и быстрыми переходами.
-
-> [!example]- Basic cheatsheets
->
-> - [Initiation: Guiding questions and tips](https://docs.google.com/document/d/1bDbzlUSGNqCIYcqYAUp4pvFMzYuUbS2UFV9ofeoyiEg/template/preview)
-> - [Planning: Guiding questions and tips](https://docs.google.com/document/d/1pcSQW8d-PhoMprc6xh3G5JYUDPFUabKecZ9Qyrk7xFw/template/preview)
-> - [Execution: Guiding questions and tips](https://docs.google.com/document/d/1YH6ai8o4NDf_s6OFBeu1hTzbaiCantOZfqEqDxfj7D4/template/preview)
-> - [Closing: Guiding questions and tips](https://docs.google.com/document/d/1tP5XapNFQ0SmYWedsGW2MDKFw2JuTISFhRyZ2wGLhJY/template/preview?resourcekey=0-pMrpTgrnD4_hOTfJcyWTuw)
-
-## Маршрут чтения
+# Project Management Knowledge Base
 
 1. [[knowledge/project-management/01-waterfall-and-agile|Comparing Waterfall and Agile Approaches]]
 2. [[knowledge/project-management/02-lean-and-six-sigma|Lean and Six Sigma Methodologies]]
@@ -50,7 +39,4 @@ aliases:
 25. [[knowledge/project-management/25-effort-estimation-techniques|Agile effort estimation techniques]]
 26. [[knowledge/project-management/26-t-shirt-sizes-and-story-points|T-shirt sizes and story points]]
 
-## Быстрые ссылки
-
-- [[knowledge/project-management/index|Открыть раздел Project Management]]
-- [[pm-study|Перейти в Product Management Cheatsheet]]
+[[project-management-study|<- Back to PMO hub]]

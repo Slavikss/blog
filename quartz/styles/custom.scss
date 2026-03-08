@@ -1,3 +1,217 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+:root {
+  --brand-soft: color-mix(in srgb, var(--secondary) 12%, var(--light));
+  --brand-accent-soft: color-mix(in srgb, var(--tertiary) 18%, var(--light));
+  --surface-card: color-mix(in srgb, var(--light) 80%, var(--secondary) 20%);
+}
+
+body {
+  background:
+    radial-gradient(circle at 8% 12%, var(--brand-accent-soft) 0, transparent 36%),
+    radial-gradient(circle at 86% 10%, var(--brand-soft) 0, transparent 38%), var(--light);
+}
+
+.page {
+  position: relative;
+}
+
+.center > article {
+  max-width: 78ch;
+  margin: 0 auto;
+  line-height: 1.78;
+  letter-spacing: 0.003em;
+}
+
+.center > article > h1 {
+  font-size: clamp(2rem, 2.9vw, 3.2rem);
+  line-height: 1.06;
+  margin-bottom: 0.55em;
+}
+
+.center > article h2 {
+  margin-top: 2.25rem;
+  padding-top: 0.25rem;
+  border-top: 1px solid color-mix(in srgb, var(--gray) 30%, transparent);
+}
+
+.center > article h3 {
+  margin-top: 1.7rem;
+}
+
+.center > article p,
+.center > article li {
+  font-size: 1.02rem;
+}
+
+.center > article pre {
+  border-radius: 12px;
+  border: 1px solid color-mix(in srgb, var(--gray) 20%, transparent);
+  box-shadow: 0 8px 25px color-mix(in srgb, var(--dark) 9%, transparent);
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.center > article img {
+  border-radius: 10px;
+  border: 1px solid color-mix(in srgb, var(--gray) 25%, transparent);
+  max-width: 100%;
+  height: auto;
+}
+
+.center > article table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-collapse: collapse;
+  font-size: 0.96rem;
+}
+
+.center > article blockquote {
+  border-left: 4px solid var(--tertiary);
+  background: color-mix(in srgb, var(--tertiary) 10%, transparent);
+  border-radius: 0 10px 10px 0;
+  padding: 0.75rem 1rem;
+}
+
+.left.sidebar > *,
+.right.sidebar > * {
+  background: color-mix(in srgb, var(--light) 87%, var(--secondary) 13%);
+  border: 1px solid color-mix(in srgb, var(--gray) 24%, transparent);
+  border-radius: 14px;
+  padding: 0.85rem;
+  box-shadow: 0 8px 20px color-mix(in srgb, var(--dark) 7%, transparent);
+}
+
+.left.sidebar > .page-title,
+.right.sidebar > .search {
+  background: color-mix(in srgb, var(--light) 70%, var(--secondary) 30%);
+}
+
+.right.sidebar > .graph {
+  background: color-mix(in srgb, var(--light) 72%, var(--tertiary) 28%);
+}
+
+footer {
+  margin-top: 1rem;
+}
+
+footer ul {
+  background: color-mix(in srgb, var(--light) 75%, var(--secondary) 25%);
+  border: 1px solid color-mix(in srgb, var(--gray) 24%, transparent);
+  border-radius: 14px;
+  padding: 1rem 1.25rem;
+}
+
+body[data-slug="index"] .center > article {
+  max-width: 84ch;
+}
+
+body[data-slug="index"] .center > article > h1 {
+  font-size: clamp(2.35rem, 4.5vw, 4rem);
+  margin-bottom: 0.35rem;
+  font-weight: 700;
+}
+
+body[data-slug="index"] .center > article > h1 + p {
+  font-size: 1.15rem;
+  max-width: 66ch;
+  color: var(--dark);
+}
+
+body[data-slug="index"] .center > article h2 {
+  border-top: none;
+  background: linear-gradient(
+    90deg,
+    color-mix(in srgb, var(--secondary) 16%, transparent),
+    color-mix(in srgb, var(--tertiary) 16%, transparent)
+  );
+  border-radius: 10px;
+  padding: 0.55rem 0.75rem;
+}
+
+body[data-slug="index"] .center > article ul {
+  padding-left: 1.25rem;
+}
+
+body[data-slug="index"] .center > article li {
+  margin-bottom: 0.35rem;
+}
+
+@media all and (max-width: 800px) {
+  .page > #quartz-body {
+    row-gap: 0.65rem;
+  }
+
+  .page > #quartz-body > .center {
+    padding-bottom: 0.75rem;
+  }
+
+  .center > article {
+    max-width: 100%;
+    line-height: 1.68;
+  }
+
+  .center > article > h1 {
+    font-size: clamp(1.85rem, 7vw, 2.45rem);
+  }
+
+  .center > article h2 {
+    margin-top: 1.55rem;
+    padding-top: 0.2rem;
+  }
+
+  .center > article p,
+  .center > article li {
+    font-size: 0.98rem;
+  }
+
+  .center > article table {
+    font-size: 0.9rem;
+  }
+
+  .center > article blockquote {
+    padding: 0.6rem 0.75rem;
+    margin-inline: 0;
+  }
+
+  .center > article ul,
+  .center > article ol {
+    padding-left: 1.1rem;
+  }
+
+  .left.sidebar,
+  .right.sidebar {
+    gap: 0.65rem;
+  }
+
+  .left.sidebar > *,
+  .right.sidebar > * {
+    padding: 0.65rem;
+    border-radius: 12px;
+    box-shadow: none;
+  }
+
+  footer ul {
+    padding: 0.8rem 0.95rem;
+  }
+}
+
+@media all and (max-width: 520px) {
+  .center > article > h1 {
+    font-size: 1.68rem;
+  }
+
+  .center > article h2 {
+    font-size: 1.18rem;
+  }
+
+  .center > article h3 {
+    font-size: 1.02rem;
+  }
+
+  body[data-slug="index"] .center > article > h1 + p {
+    font-size: 1rem;
+  }
+}

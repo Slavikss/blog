@@ -1,0 +1,41 @@
+---
+title: "Подход к стейкхолдерам"
+description: "Раздел из Product Management Cheatsheet: Подход к стейкхолдерам"
+tags:
+  - knowledge
+  - product-management
+  - cheatsheet
+draft: false
+aliases:
+  - /pm-study/11-stakeholder-approach
+---
+
+# Подход к стейкхолдерам
+
+### Структура презентации
+
+- Проблема
+- Насколько это большая проблема (объем рынка)
+- Решение проблемы
+- Сколько уже заработали
+- Какую пользу уже получили наши клиенты
+- Почему именно у нашего решения все получится
+- За счет чего зарабатываем (бизнес модель)
+- Почему мы не облажаемся (команда)
+- Что нам надо дать сейчас, чтобы инвестор потом заработал много денег.
+
+На каждом слайде должно быть:
+![[assets/Pasted image 20250223202337.webp]]
+
+- тема
+- инкапсулированные смысловые части
+- лицо слайда(см.ниже)
+  ![[assets/Pasted image 20250223202618.webp]]
+
+---
+
+## Навигация
+
+- Prev: [[knowledge/product-management/10-marketing-for-managers|Маркетинг для менеджеров]]
+- [[pm-study|Наверх: Product Management Cheatsheet]]
+- Next: [[knowledge/product-management/12-team-management|Команда]]

@@ -1,61 +1,55 @@
 ---
-title: Обо мне
-draft: "false"
-description: Это домашняя страница Славы t.me/slavaswords
+title: "Слова Славы"
+description: "Личный сайт Славы про Product и Project Management, AI и прикладные системные заметки"
+tags:
+  - home
+  - personal
+draft: false
+aliases:
+  - /about
 ---
 
-# О себе
+# Слова Славы
 
----
+Я строю продукты на стыке **AI, бизнеса и системного мышления**. Этот сайт - моя рабочая база знаний: не витрина, а практичный набор материалов, к которым я возвращаюсь сам.
 
-**Привет! 👋**  
-Меня зовут Слава, мне 20 лет, я из Алматы. Сейчас учусь на 3 курсе ВШЭ (ПМИ) в Москве и уже несколько лет строю продукты на стыке AI и бизнеса.
+## Кто я
 
----
+- Senior PM в AI-направлениях.
+- Ко-фаундер и оператор команд, где нужно быстро переводить хаос в понятную систему.
+- Фокус: проверка спроса, быстрые эксперименты, продуктовая аналитика и запуск.
 
-## 🚀 Кратко обо мне
+## Маршруты чтения
 
-- Люблю запускать новое, выводить команды из хаоса к структуре и превращать сложное в понятное.
-- За последние пару лет прошёл путь от стажёра в бигтехе до кофаундера AI-стартапа и руководителя кросс-функциональных команд.
+### 1. Product Management
 
----
+Стартовая точка: [[pm-study|Product Management Cheatsheet]]
 
-## ✨ Мой путь в нескольких фактах
+Ключевые разделы:
 
-- 🧑‍💻 **В 18 лет** начал как ML Engineer в Beeline Kazakhstan.
-- 🔥 Запустил и «прогорел» со стартапом по аналитике WB — на практике понял, что такое *кастдев и рынок*.
-- ⚙️ В [**Daily Challenge**](https://daily-challenge.com) систематизировал хаос 100+ человек в работающую систему (Notion + Airtable + Make + боты) — программа вышла на стабильный рост 140 участников.
-- 💡 Как кофаундер [*Shperling AI*](https://shperling.ai) подписал первые контракты на $22k, подняли $5m valuation, прошёл десятки фейлов и сотни бессонных ночей — и это только начало.
-- 🤖 Сейчас как **Senior PM** веду AI-продукты в HRTech для корпораций 10k+ сотрудников.
+- [[knowledge/product-management/03-idea-discovery-and-validation|Поиск идей и валидация]]
+- [[knowledge/product-management/04-market-research|Анализ рынка]]
+- [[knowledge/product-management/07-strategy-creation|Создание стратегии]]
+- [[knowledge/product-management/06-product-analytics|Продуктовая аналитика]]
 
----
+### 2. Project Management
 
-## 🎯 Что меня двигает
+Стартовая точка: [[project-management-study|Project Management Cheatsheet]]
 
-Мне интересно создавать продукты, которые не просто используют *AI ради AI*, а **реально меняют опыт людей и бизнеса.**  
-Я не верю в хайп — я верю в *проверку спроса, быстрые эксперименты и честный фидбек*.
+Ключевые разделы:
 
----
+- [[knowledge/project-management/03-creating-okrs|Creating OKRs for your project]]
+- [[knowledge/project-management/12-critical-path|Creating a critical path]]
+- [[knowledge/project-management/19-quality-management|Quality management concepts]]
+- [[knowledge/project-management/22-scrum-guide-2020|The 2020 Scrum GuideTM]]
 
-## ⭐️ Что важно для меня
+## Структурированные хабы
 
-- 🤝 Глубокие связи в команде вместо поверхностной социализации.
-- ⚖️ Честность и ответственность: беру лидерство, когда команда буксует.
-- 🧠 Growth mindset: постоянно учусь, рефлексирую и ищу, куда расти дальше.
+- [[knowledge/product-management/index|Product Management Knowledge Base]]
+- [[knowledge/project-management/index|Project Management Knowledge Base]]
 
----
+## Контакты
 
-## 🧭 Куда я иду
-
-Хочу собирать вокруг себя людей, смысл и проекты, которые смогут создавать продукты будущего на стыке: **ML, зумеров и B2C.**
-
----
-
-[📱 Telegram: @sslava_g](https://t.me/sslava_g)  
-[👨‍💻 GitHub: Slavikss](https://github.com/Slavikss)  
-[💼 LinkedIn: vguch](https://linkedin.com/in/vguch)
-
-## 📚 Статьи и лонгриды
-1. [Полноценный справочник по методам, инструментам в product management'e](pm-study)
-2. [Большой справочник по Project management'у от специализации на coursera от Гугла](project-management-study)
-
+- Telegram: [@sslava_g](https://t.me/sslava_g)
+- GitHub: [Slavikss](https://github.com/Slavikss)
+- LinkedIn: [vguch](https://linkedin.com/in/vguch)
