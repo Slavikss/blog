@@ -2,13 +2,15 @@ const bufferPx = 150
 const observer = new IntersectionObserver((entries) => {
   for (const entry of entries) {
     const slug = entry.target.id
-    const tocEntryElement = document.querySelector(`a[data-for="${slug}"]`)
+    const tocEntryElements = document.querySelectorAll(`a[data-for="${slug}"]`)
     const windowHeight = entry.rootBounds?.height
-    if (windowHeight && tocEntryElement) {
-      if (entry.boundingClientRect.y < windowHeight) {
-        tocEntryElement.classList.add("in-view")
-      } else {
-        tocEntryElement.classList.remove("in-view")
+    if (windowHeight && tocEntryElements.length > 0) {
+      for (const tocEntryElement of tocEntryElements) {
+        if (entry.boundingClientRect.y < windowHeight) {
+          tocEntryElement.classList.add("in-view")
+        } else {
+          tocEntryElement.classList.remove("in-view")
+        }
       }
     }
   }
@@ -26,13 +28,17 @@ function toggleToc(this: HTMLElement) {
 }
 
 function setupToc() {
-  const toc = document.getElementById("toc")
-  if (toc) {
-    const collapsed = toc.classList.contains("collapsed")
-    const content = toc.nextElementSibling as HTMLElement | undefined
-    if (!content) return
+  const tocs = document.querySelectorAll<HTMLElement>(".toc .toc-button")
+  for (const toc of tocs) {
+    if (toc.dataset.tocBound === "true") {
+      continue
+    }
+    toc.dataset.tocBound = "true"
     toc.addEventListener("click", toggleToc)
-    window.addCleanup(() => toc.removeEventListener("click", toggleToc))
+    window.addCleanup(() => {
+      toc.removeEventListener("click", toggleToc)
+      delete toc.dataset.tocBound
+    })
   }
 }
 

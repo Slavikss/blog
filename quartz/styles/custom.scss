@@ -9,19 +9,20 @@
 body {
   background:
     radial-gradient(
-      circle at 8% 10%,
-      color-mix(in srgb, var(--tertiary) 28%, transparent) 0,
-      transparent 42%
+      circle at 12% 8%,
+      color-mix(in srgb, var(--tertiary) 20%, transparent) 0,
+      transparent 48%
     ),
     radial-gradient(
-      circle at 86% 8%,
-      color-mix(in srgb, var(--secondary) 32%, transparent) 0,
-      transparent 44%
+      circle at 88% 9%,
+      color-mix(in srgb, var(--secondary) 24%, transparent) 0,
+      transparent 50%
     ),
     linear-gradient(
-      130deg,
-      color-mix(in srgb, var(--tertiary) 12%, var(--light)) 0%,
-      color-mix(in srgb, var(--secondary) 13%, var(--light)) 60%,
+      125deg,
+      color-mix(in srgb, var(--dark) 7%, var(--light)) 0%,
+      color-mix(in srgb, var(--tertiary) 10%, var(--light)) 48%,
+      color-mix(in srgb, var(--secondary) 8%, var(--light)) 78%,
       var(--light) 100%
     );
 }
@@ -31,10 +32,15 @@ body {
 }
 
 .center > article {
-  max-width: 78ch;
+  max-width: 72ch;
   margin: 0 auto;
-  line-height: 1.78;
+  line-height: 1.82;
   letter-spacing: 0.003em;
+  background: color-mix(in srgb, var(--light) 88%, var(--dark) 12%);
+  border: 1px solid color-mix(in srgb, var(--gray) 30%, transparent);
+  border-radius: 16px;
+  padding: 1.2rem clamp(1rem, 1.8vw, 1.55rem);
+  box-shadow: 0 14px 32px color-mix(in srgb, var(--dark) 12%, transparent);
 }
 
 .center > article > h1 {
@@ -55,7 +61,13 @@ body {
 
 .center > article p,
 .center > article li {
-  font-size: 1.02rem;
+  font-size: 1.03rem;
+}
+
+.center > article a {
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 1.2px;
 }
 
 .center > article pre {
@@ -91,20 +103,34 @@ body {
 
 .left.sidebar > *,
 .right.sidebar > * {
-  background: color-mix(in srgb, var(--light) 87%, var(--secondary) 13%);
-  border: 1px solid color-mix(in srgb, var(--gray) 24%, transparent);
+  background: color-mix(in srgb, var(--light) 84%, var(--dark) 16%);
+  border: 1px solid color-mix(in srgb, var(--gray) 30%, transparent);
   border-radius: 14px;
-  padding: 0.85rem;
-  box-shadow: 0 8px 20px color-mix(in srgb, var(--dark) 7%, transparent);
+  padding: 0.95rem;
+  box-shadow: 0 10px 24px color-mix(in srgb, var(--dark) 16%, transparent);
 }
 
 .left.sidebar > .page-title,
 .right.sidebar > .search {
-  background: color-mix(in srgb, var(--light) 70%, var(--secondary) 30%);
+  background: color-mix(in srgb, var(--light) 72%, var(--secondary) 28%);
 }
 
 .right.sidebar > .graph {
-  background: color-mix(in srgb, var(--light) 72%, var(--tertiary) 28%);
+  background: color-mix(in srgb, var(--light) 70%, var(--tertiary) 30%);
+}
+
+.left.sidebar > .explorer {
+  min-height: min(72vh, 940px);
+}
+
+.left.sidebar > .explorer #explorer-content.collapsed {
+  max-height: calc(100vh - 18rem);
+}
+
+.left.sidebar > .darkmode {
+  width: fit-content;
+  align-self: flex-start;
+  padding: 0.45rem;
 }
 
 footer {
@@ -112,8 +138,8 @@ footer {
 }
 
 footer ul {
-  background: color-mix(in srgb, var(--light) 75%, var(--secondary) 25%);
-  border: 1px solid color-mix(in srgb, var(--gray) 24%, transparent);
+  background: color-mix(in srgb, var(--light) 74%, var(--dark) 26%);
+  border: 1px solid color-mix(in srgb, var(--gray) 30%, transparent);
   border-radius: 14px;
   padding: 1rem 1.25rem;
 }
@@ -164,7 +190,8 @@ body[data-slug="index"] .center > article li {
 
   .center > article {
     max-width: 100%;
-    line-height: 1.68;
+    line-height: 1.72;
+    padding: 0.95rem 0.9rem;
   }
 
   .center > article > h1 {
@@ -204,7 +231,7 @@ body[data-slug="index"] .center > article li {
   .right.sidebar > * {
     padding: 0.65rem;
     border-radius: 12px;
-    box-shadow: none;
+    box-shadow: 0 6px 14px color-mix(in srgb, var(--dark) 10%, transparent);
   }
 
   footer ul {
