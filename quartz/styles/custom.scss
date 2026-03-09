@@ -10,20 +10,40 @@ body {
   background:
     radial-gradient(
       circle at 12% 8%,
-      color-mix(in srgb, var(--tertiary) 20%, transparent) 0,
+      color-mix(in srgb, var(--tertiary) 14%, transparent) 0,
       transparent 48%
     ),
     radial-gradient(
       circle at 88% 9%,
-      color-mix(in srgb, var(--secondary) 24%, transparent) 0,
+      color-mix(in srgb, var(--secondary) 16%, transparent) 0,
       transparent 50%
     ),
     linear-gradient(
       125deg,
-      color-mix(in srgb, var(--dark) 7%, var(--light)) 0%,
-      color-mix(in srgb, var(--tertiary) 10%, var(--light)) 48%,
-      color-mix(in srgb, var(--secondary) 8%, var(--light)) 78%,
+      color-mix(in srgb, var(--dark) 12%, var(--light)) 0%,
+      color-mix(in srgb, var(--tertiary) 6%, var(--light)) 48%,
+      color-mix(in srgb, var(--secondary) 4%, var(--light)) 78%,
       var(--light) 100%
+    );
+}
+
+:root[saved-theme="dark"] body {
+  background:
+    radial-gradient(
+      circle at 10% 6%,
+      color-mix(in srgb, var(--tertiary) 10%, transparent) 0,
+      transparent 52%
+    ),
+    radial-gradient(
+      circle at 90% 10%,
+      color-mix(in srgb, var(--secondary) 8%, transparent) 0,
+      transparent 56%
+    ),
+    linear-gradient(
+      132deg,
+      color-mix(in srgb, var(--dark) 18%, var(--light)) 0%,
+      color-mix(in srgb, var(--tertiary) 5%, var(--light)) 45%,
+      color-mix(in srgb, var(--secondary) 4%, var(--light)) 100%
     );
 }
 
@@ -101,7 +121,7 @@ body {
   padding: 0.75rem 1rem;
 }
 
-.left.sidebar > *,
+.left.sidebar > *:not(.darkmode),
 .right.sidebar > * {
   background: color-mix(in srgb, var(--light) 84%, var(--dark) 16%);
   border: 1px solid color-mix(in srgb, var(--gray) 30%, transparent);
@@ -120,17 +140,22 @@ body {
 }
 
 .left.sidebar > .explorer {
-  min-height: min(72vh, 940px);
+  height: auto;
 }
 
 .left.sidebar > .explorer #explorer-content.collapsed {
-  max-height: calc(100vh - 18rem);
+  max-height: min(68vh, 760px);
+  overflow-y: auto;
 }
 
 .left.sidebar > .darkmode {
-  width: fit-content;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  width: 2.1rem;
+  padding: 0;
   align-self: flex-start;
-  padding: 0.45rem;
+  margin: 0 0 0.35rem;
 }
 
 footer {
