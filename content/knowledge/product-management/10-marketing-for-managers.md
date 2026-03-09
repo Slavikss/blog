@@ -12,13 +12,12 @@ aliases:
 
 # Маркетинг для менеджеров
 
-### Шпаргалки по выводу на рынок (Go-To-Market, GTM)
-
-![[assets/Pasted image 20250213160601.webp]]![[assets/Pasted image 20250213160622.webp]]
-![[assets/Pasted image 20250213160551.webp]]
-![[assets/Pasted image 20250213160627.webp]]
-![[assets/Pasted image 20250213160643.webp]]
-![[assets/Pasted image 20250213160654.webp]]
+### GTM Cheatsheets
+![[assets/Pasted image 20250213160601.png]]![[assets/Pasted image 20250213160622.png]]
+![[assets/Pasted image 20250213160551.png]]
+![[assets/Pasted image 20250213160627.png]]
+![[assets/Pasted image 20250213160643.png]]
+![[assets/Pasted image 20250213160654.png]]
 
 ---
 

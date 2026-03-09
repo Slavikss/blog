@@ -12,7 +12,25 @@ aliases:
 
 # Устав проекта (Project Charter): элементы и форматы
 
-![[assets/Pasted image 20250605220421.webp]]
+A **project charter** clearly defines the project and outlines the necessary details for the project to reach its goals. A well-documented project charter can be a project manager's secret weapon to success. In this reading, we will go over the function, key elements, and significance of a project charter and learn how to create one. 
+
+ Project charters will vary but usually include some combination of the following key information:
+- introduction/project summary
+- goals/objectives 
+- business case/benefits and costs
+- project team
+- scope
+- success criteria
+- major requirements or key deliverables
+- budget
+- schedule/timeline or milestones
+- constraints and assumptions
+- risks
+- OKRs
+- approvals
+
+![[assets/Pasted image 20250605220421.png]]
+Example of a project charter
 
 ---
 

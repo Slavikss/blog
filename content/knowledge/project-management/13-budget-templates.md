@@ -12,9 +12,15 @@ aliases:
 
 # Полезные шаблоны бюджета
 
-![[assets/Pasted image 20250605220541.webp]]
+Budget templates are a useful tool for helping you estimate, track, and maintain a project budget. Below, you will find a few different budget templates that you can use for future projects. Each of these templates is formatted in a digital spreadsheet. 
 
-[Шаблон бюджета сайта в Microsoft Excel](https://create.microsoft.com/en-us/template/website-budget-142337c5-35f0-4e42-ab85-0643840d738c) _(подходит для любого проекта)_
+![[assets/Pasted image 20250605220541.png]]
+
+[Microsoft Excel Budget Templates](https://templates.office.com/en-us/budgets) 
+
+[Microsoft Excel Website Budget Template](https://create.microsoft.com/en-us/template/website-budget-142337c5-35f0-4e42-ab85-0643840d738c) _(applicable to any project)_
+
+[Google Sheets Budget Template](https://docs.google.com/spreadsheets/d/1DuY4viZtcjPzhdC1EotnJMxLd61v0eYNkRtJwHGww8U/template/preview "A hyperlink to a budget template") _(Note: You will need to be signed in to a Google account in order to make a copy of the template.)_
 
 ---
 
