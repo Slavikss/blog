@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       host: "https://plausible.io",
     },
     locale: "ru-RU",
-    baseUrl: "slavikss.github.io",
+    baseUrl: "slavikss.github.io/blog",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
