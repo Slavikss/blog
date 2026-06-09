@@ -147,6 +147,13 @@ export const defaultImage: SocialImageOptions["imageStructure"] = (
   const fontBreakPoint = 22
   const useSmallerFont = title.length > fontBreakPoint
 
+  // Truncate description so it fits in ~3 lines at 44px
+  const maxDescLength = 120
+  const truncatedDescription =
+    description.length > maxDescLength
+      ? description.slice(0, maxDescLength).trimEnd() + "…"
+      : description
+
   // Setup to access image
   const iconPath = `https://${cfg.baseUrl}/static/icon.png`
   return (
@@ -191,11 +198,10 @@ export const defaultImage: SocialImageOptions["imageStructure"] = (
         style={{
           color: cfg.theme.colors[colorScheme].dark,
           fontSize: 44,
-          lineClamp: 3,
           fontFamily: fonts[1].name,
         }}
       >
-        {description}
+        {truncatedDescription}
       </p>
     </div>
   )
