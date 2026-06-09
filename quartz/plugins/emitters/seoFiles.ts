@@ -107,10 +107,15 @@ export const SeoFiles: QuartzEmitterPlugin = () => ({
 
     const robotsPath = joinSegments(argv.output, "robots.txt") as FilePath
     const llmsPath = joinSegments(argv.output, "llms.txt") as FilePath
+    const yandexPath = joinSegments(argv.output, "yandex_7a985e8de70ba860.html") as FilePath
 
     fs.writeFileSync(robotsPath, buildRobotsTxt(baseUrl))
     fs.writeFileSync(llmsPath, buildLlmsTxt(baseUrl))
+    fs.writeFileSync(
+      yandexPath,
+      `<html>\n    <head>\n        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">\n    </head>\n    <body>Verification: 7a985e8de70ba860</body>\n</html>`,
+    )
 
-    return [robotsPath, llmsPath]
+    return [robotsPath, llmsPath, yandexPath]
   },
 })
