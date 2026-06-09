@@ -20,7 +20,7 @@ const config: QuartzConfig = {
     baseUrl: "slava.blog",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: true,
+    generateSocialImages: { colorScheme: "darkMode" },
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
