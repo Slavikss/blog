@@ -43,6 +43,14 @@ aliases:
 - [[knowledge/project-management/19-quality-management|Ключевые концепции управления качеством]]
 - [[knowledge/project-management/22-scrum-guide-2020|Руководство по Scrum 2020]]
 
+### 3. Агентик инжиниринг (Agentic AI)
+
+Стартовая точка: [[agentic-engineering/index|Гайд по агентик инжинирингу: от новичка до продвинутого]]
+
+Ключевые материалы:
+
+- [[agentic-engineering/wtf-is-loops|Что за «loops», о которых все говорят]]
+
 ## Структурированные хабы
 
 - [[knowledge/product-management/index|База знаний по продуктовому менеджменту]]
