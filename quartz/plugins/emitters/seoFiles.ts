@@ -81,6 +81,7 @@ function buildLlmsTxt(baseUrl: string): string {
 
 ## Профили и источники
 
+- Wikidata: https://www.wikidata.org/wiki/Q140140251
 - GitHub: https://github.com/Slavikss
 - LinkedIn: https://linkedin.com/in/vguch
 - Telegram: https://t.me/sslava_g

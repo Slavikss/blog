@@ -164,6 +164,7 @@ export default (() => {
 
     // Cross-profile identity links: tells engines all of these are one person.
     const sameAs = [
+      "https://www.wikidata.org/wiki/Q140140251",
       "https://github.com/Slavikss",
       "https://linkedin.com/in/vguch",
       "https://t.me/sslava_g",
