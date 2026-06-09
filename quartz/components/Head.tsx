@@ -178,6 +178,11 @@ export default (() => {
       alternateName: ["Vyacheslav Guch", "Slava Guch", "slava"],
       url: siteUrl,
       jobTitle: "AI Product Manager",
+      worksFor: {
+        "@type": "Organization",
+        name: "Raiffeisenbank",
+        sameAs: "https://www.raiffeisen.ru/",
+      },
       description:
         "AI Product Manager. Строит AI/ML/GenAI продукты от идеи до коммерциализации. " +
         "Спикер AI Conf 2026, сооснователь и продакт Shperling AI.",

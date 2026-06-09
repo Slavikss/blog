@@ -1,4 +1,6 @@
 ---
+created: 2026-03-08T14:13:58+03:00
+modified: 2026-03-09T12:21:27+03:00
 title: "Создание целей и ключевых результатов (Objectives and Key Results, OKR) для проекта"
 description: "Раздел из шпаргалки по управлению проектами (Project Management): создание OKR для проекта"
 tags:

@@ -1,4 +1,6 @@
 ---
+created: 2025-05-21T15:23:15+03:00
+modified: 2026-03-08T23:14:09+03:00
 title: "Шпаргалка по управлению проектами (Project Management)"
 description: "Модульная база знаний по управлению проектами (Project Management) от Славы"
 tags:

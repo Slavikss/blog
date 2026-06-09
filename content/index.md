@@ -1,4 +1,6 @@
 ---
+created: 2025-02-14T12:52:16+03:00
+modified: 2026-06-09T13:37:13+03:00
 title: "Слова Славы"
 description: "Личный сайт Славы про продуктовый и проектный менеджмент (Product Management и Project Management), AI и прикладные системные заметки"
 tags:
