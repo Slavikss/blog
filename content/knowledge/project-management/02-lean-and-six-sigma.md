@@ -1,4 +1,6 @@
 ---
+created: 2026-03-08T14:13:58+03:00
+modified: 2026-03-09T12:21:27+03:00
 title: "Методологии бережливого подхода (Lean) и Six Sigma"
 description: "Раздел из шпаргалки по управлению проектами (Project Management): Lean и Six Sigma"
 tags:

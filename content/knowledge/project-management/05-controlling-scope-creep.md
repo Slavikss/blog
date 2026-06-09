@@ -1,4 +1,6 @@
 ---
+created: 2026-03-08T14:13:58+03:00
+modified: 2026-03-09T12:21:27+03:00
 title: "Стратегии контроля расползания содержания (scope creep)"
 description: "Раздел из шпаргалки по управлению проектами (Project Management): контроль scope creep"
 tags:

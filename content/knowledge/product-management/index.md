@@ -1,4 +1,6 @@
 ---
+created: 2026-03-08T14:13:58+03:00
+modified: 2026-03-08T23:14:09+03:00
 title: "База знаний по продакт-менеджменту (Product Management Knowledge Base)"
 description: "Навигационный раздел по продакт-менеджменту (Product Management)"
 tags:

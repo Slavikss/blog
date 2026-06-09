@@ -1,4 +1,6 @@
 ---
+created: 2026-03-08T14:13:58+03:00
+modified: 2026-03-09T12:21:27+03:00
 title: "Элементы пользовательских историй (user stories) и эпиков (epics)"
 description: "Раздел из шпаргалки по управлению проектами (Project Management): user stories и epics"
 tags:

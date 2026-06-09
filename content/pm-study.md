@@ -1,4 +1,6 @@
 ---
+created: 2025-02-14T12:52:16+03:00
+modified: 2026-03-08T23:14:09+03:00
 title: "Шпаргалка по продакт-менеджменту (Product Management Cheatsheet)"
 description: "Модульная база знаний по продакт-менеджменту (Product Management) от Славы"
 tags:

@@ -154,6 +154,90 @@ export default (() => {
     const socialUrl =
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
 
+    // --- Structured data (Schema.org JSON-LD) ---
+    // Helps search engines and LLMs resolve the author into a single entity
+    // and understand each page. Person + WebSite ship on every page;
+    // article pages additionally emit a BlogPosting node.
+    const siteUrl = `https://${cfg.baseUrl ?? "example.com"}`
+    const personId = `${siteUrl}/#person`
+    const websiteId = `${siteUrl}/#website`
+
+    // Cross-profile identity links: tells engines all of these are one person.
+    const sameAs = [
+      "https://github.com/Slavikss",
+      "https://linkedin.com/in/vguch",
+      "https://t.me/sslava_g",
+      "https://aiconf.ru/2026/authors/20540",
+      "https://cs.hse.ru/cppr/news/998965907.html",
+    ]
+
+    const personSchema = {
+      "@type": "Person",
+      "@id": personId,
+      name: "Вячеслав Гуч",
+      alternateName: ["Vyacheslav Guch", "Slava Guch", "slava"],
+      url: siteUrl,
+      jobTitle: "AI Product Manager",
+      worksFor: {
+        "@type": "Organization",
+        name: "Raiffeisenbank",
+        sameAs: "https://www.raiffeisen.ru/",
+      },
+      description:
+        "AI Product Manager. Строит AI/ML/GenAI продукты от идеи до коммерциализации. " +
+        "Спикер AI Conf 2026, сооснователь и продакт Shperling AI.",
+      knowsAbout: [
+        "Product Management",
+        "AI Product Management",
+        "Machine Learning",
+        "Generative AI",
+        "Agentic AI",
+        "ML System Design",
+        "RAG",
+        "Product Strategy",
+        "Go-to-Market",
+      ],
+      alumniOf: {
+        "@type": "CollegeOrUniversity",
+        name: "HSE University",
+        sameAs: "https://www.hse.ru/en/",
+      },
+      sameAs,
+    }
+
+    const websiteSchema = {
+      "@type": "WebSite",
+      "@id": websiteId,
+      url: siteUrl,
+      name: cfg.pageTitle,
+      inLanguage: ["ru", "en"],
+      author: { "@id": personId },
+      publisher: { "@id": personId },
+    }
+
+    const graph: Record<string, unknown>[] = [personSchema, websiteSchema]
+
+    const isArticle = fileData.slug !== "index" && fileData.slug !== "404"
+    if (isArticle) {
+      graph.push({
+        "@type": "BlogPosting",
+        "@id": `${socialUrl}#article`,
+        headline: title,
+        description,
+        url: socialUrl,
+        inLanguage: cfg.locale?.split("-")[0] ?? "ru",
+        image: ogImagePath,
+        datePublished: fileData.dates?.created?.toISOString(),
+        dateModified: (fileData.dates?.modified ?? fileData.dates?.created)?.toISOString(),
+        author: { "@id": personId },
+        publisher: { "@id": personId },
+        isPartOf: { "@id": websiteId },
+        mainEntityOfPage: socialUrl,
+      })
+    }
+
+    const jsonLd = JSON.stringify({ "@context": "https://schema.org", "@graph": graph })
+
     return (
       <head>
         <title>{title}</title>
@@ -197,6 +281,12 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        {/* Author/site identity for search engines and LLMs */}
+        <meta name="author" content="Вячеслав Гуч (Vyacheslav Guch)" />
+        <link rel="me" href="https://github.com/Slavikss" />
+        <link rel="me" href="https://linkedin.com/in/vguch" />
+        <link rel="me" href="https://t.me/sslava_g" />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLd }} />
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
