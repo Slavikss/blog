@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/26-t-shirt-sizes-and-story-points
 ---
 
-# Размеры футболок (T-shirt sizes) и стори-пойнты (story points)
-
 As a recap, **relative estimation** means to compare the effort estimated for completing a backlog item to the effort estimated for another backlog item. Doing this instead of trying to determine exactly how long a task will take allows your comparisons and estimates to be more accurate relative to one another.
 
 ## **T-shirt sizes**

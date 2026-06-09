@@ -12,8 +12,6 @@ aliases:
   - /pm-study/14-life-as-product-management
 ---
 
-# Жизнь как управление продуктом
-
 >[!quote] coming soon
 
 ---

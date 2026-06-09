@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/04-defining-scope
 ---
 
-# Сбор информации для определения содержания проекта (scope)
-
 Imagine that while working in a restaurant management group, your manager calls and asks you to "update the dining space," then quickly hangs up the phone without providing further instruction. In this initial handoff from the manager, you are missing a lot of information. How do you even know what to ask?
 
 Let's quickly recap the concept of scope. The scope provides the boundaries for your project. You define the scope to help identify necessary resources, resource costs, and a schedule for the project. 

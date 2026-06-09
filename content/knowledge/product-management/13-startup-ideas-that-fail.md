@@ -12,8 +12,6 @@ aliases:
   - /pm-study/13-startup-ideas-that-fail
 ---
 
-# Очевидные идеи стартапов, которые не летят
-
 >[!quote] coming soon
 
 ---

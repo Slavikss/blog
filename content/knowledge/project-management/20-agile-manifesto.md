@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/20-agile-manifesto
 ---
 
-# Манифест Agile (Agile Manifesto)
-
 The Agile values refer to the following four statements:
 
 - **Individuals and interactions** over processes and tools

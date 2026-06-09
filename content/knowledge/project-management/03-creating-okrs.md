@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/03-creating-okrs
 ---
 
-# Создание целей и ключевых результатов (Objectives and Key Results, OKR) для проекта
-
 ## **What are OKRs?**
 
 OKR stands for objectives and key results. They combine a goal and a metric to determine a measurable outcome.

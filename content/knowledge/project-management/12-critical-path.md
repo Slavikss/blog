@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/12-critical-path
 ---
 
-# Построение критического пути (critical path)
-
 The critical path helps you determine the essential tasks that need to be completed on your project to meet your end goal and how long each task will take. The critical path also provides a quick reference for critical tasks by revealing which tasks will impact your project completion date negatively if their scheduled finish dates are late or missed. A critical path can help you define the resources you need, your project baselines, and any flexibility you have in the schedule. 
 
 ## **How to create a critical path**

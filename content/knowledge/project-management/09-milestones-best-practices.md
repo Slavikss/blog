@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/09-milestones-best-practices
 ---
 
-# Постановка вех (milestones): лучшие практики
-
 ![[assets/Pasted image 20250605220434.png]]
 ## **Set tasks to identify milestones**
 

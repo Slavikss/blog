@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/17-dependency-relationships
 ---
 
-# Визуализация зависимостей между задачами
-
 In the video, you learned to identify several types of risks. In this reading, we will be discussing the different types of dependencies that can play a critical role in our project's success. 
 
 ## **Types of dependencies**   

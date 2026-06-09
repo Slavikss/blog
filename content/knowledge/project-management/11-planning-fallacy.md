@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/11-planning-fallacy
 ---
 
-# Как преодолеть ошибку планирования (planning fallacy)
-
 It is human nature to underestimate the amount of time and effort it takes to complete a task—from anything as simple as walking the dog to something as complex as completing a project. People generally want to remain hopeful about a positive outcome, and this is a great quality to have as a person. But as a project manager, this kind of optimism can also be a deficiency, especially during the planning phase of a project. Let's examine a theory known as the **planning fallacy** to better understand how to set yourself up for success in the planning phase. 
 
 ## **The planning fallacy and optimism bias**

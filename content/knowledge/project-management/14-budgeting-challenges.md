@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/14-budgeting-challenges
 ---
 
-# Преодоление сложностей бюджетирования
-
 ## **Challenge 1: Budget pre-allocation**
 
 You may encounter situations where your budget is already set before you even start the project. This is known as **budget pre-allocation**. Some organizations follow strict budgeting cycles, which can lead to cost estimations taking place before the scope of the project is completely defined.  

@@ -12,8 +12,6 @@ aliases:
   - /pm-study/01-who-is-product-manager
 ---
 
-# Кто такой продакт-менеджер (Product Manager)
-
 ![[assets/Pasted image 20250121000325.png]]
 
 |                              | **Product manager**                                                                                                                                                                                                                                                                                                                                          | **Project manager**                                                                                                                                                                                                                                                                                             |

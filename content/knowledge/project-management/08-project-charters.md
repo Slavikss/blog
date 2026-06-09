@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/08-project-charters
 ---
 
-# Устав проекта (Project Charter): элементы и форматы
-
 A **project charter** clearly defines the project and outlines the necessary details for the project to reach its goals. A well-documented project charter can be a project manager's secret weapon to success. In this reading, we will go over the function, key elements, and significance of a project charter and learn how to create one. 
 
  Project charters will vary but usually include some combination of the following key information:

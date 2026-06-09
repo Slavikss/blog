@@ -12,8 +12,6 @@ aliases:
   - /pm-study/12-team-management
 ---
 
-# Команда
-
 ### Управление ожиданиями стейкхолдеров
 ![[assets/Pasted image 20250223220248.png]]
 

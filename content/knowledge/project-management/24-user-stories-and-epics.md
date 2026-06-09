@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/24-user-stories-and-epics
 ---
 
-# Элементы пользовательских историй (user stories) и эпиков (epics)
-
 ## **User stories**
 
 The driving factor behind every Scrum project is putting the customer first. User stories are a key component of ensuring that customers are satisfied with the product. A team writes a user story from the perspective of the user. Not only do user stories provide insight into what goals the user wants to achieve, but they enable collaboration, inspire creative solutions, and create momentum by giving the team a small win when the stories are developed. 

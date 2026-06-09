@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/05-controlling-scope-creep
 ---
 
-# Стратегии контроля расползания содержания (scope creep)
-
 The scope of a project can get out of control quickly—so quickly that you may not even notice it.
 
 >[!Warning]

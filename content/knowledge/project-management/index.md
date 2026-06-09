@@ -12,8 +12,6 @@ aliases:
   - /knowledge/project-management/index
 ---
 
-# База знаний по управлению проектами (Project Management)
-
 1. [[knowledge/project-management/01-waterfall-and-agile|Сравнение каскадного подхода (Waterfall) и гибкого подхода (Agile)]]
 2. [[knowledge/project-management/02-lean-and-six-sigma|Методологии бережливого подхода (Lean) и Six Sigma]]
 3. [[knowledge/project-management/03-creating-okrs|Создание целей и ключевых результатов (Objectives and Key Results, OKR) для проекта]]

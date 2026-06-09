@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/01-waterfall-and-agile
 ---
 
-# Сравнение каскадного подхода (Waterfall) и гибкого подхода (Agile)
-
 > [!important] Key Distinction
 > Waterfall and Agile are implemented in many different ways on many different projects, and some projects may use aspects of each. The chart below briefly describes and compares Waterfall and Agile approaches. You can use it as a quick reference tool, but be aware that in practice, the differences between these two approaches may not always be clearly defined.
 

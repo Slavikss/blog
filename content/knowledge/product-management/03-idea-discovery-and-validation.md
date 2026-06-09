@@ -12,8 +12,6 @@ aliases:
   - /pm-study/03-idea-discovery-and-validation
 ---
 
-# Поиск идей
-
 ### From 0 to 1 
 #### 4 types of Innovation
 ![[assets/Pasted image 20250120182011.png]]

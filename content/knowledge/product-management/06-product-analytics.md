@@ -12,8 +12,6 @@ aliases:
   - /pm-study/06-product-analytics
 ---
 
-# Продуктовая аналитика
-
 ### Карта методов сегментации аудитории
 
 ![[assets/svg_1.svg]]

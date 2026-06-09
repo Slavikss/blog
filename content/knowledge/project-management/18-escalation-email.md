@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/18-escalation-email
 ---
 
-# Как написать эффективное эскалационное письмо
-
 All projects—even those managed by experienced project managers—occasionally have problems. Your role as the project manager is to help resolve problems and remove barriers that prevent your team from making progress toward your goals. While many problems might be small enough to resolve within your core team, other problems—like a major change in your budget or timeline—may need to be brought to stakeholders for a final decision. Detailing these problems, their potential impact, and the support you need in a clear and direct email to your audience can be an effective communication tool.
 
 Effective escalation emails:

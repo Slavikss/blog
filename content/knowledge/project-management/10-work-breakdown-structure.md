@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/10-work-breakdown-structure
 ---
 
-# Декомпозиция иерархической структуры работ (Work Breakdown Structure, WBS)
-
 WBS is a deliverable-oriented breakdown of a project into smaller components. It's a tool that sorts the milestones and tasks of a project into a hierarchy, in the order they need to be completed. 
 
 A thorough WBS gives you a visual representation of a project and the tasks required to deliver each milestone. It makes it easier to understand all of the essential project tasks, such as estimating costs, developing a schedule, assigning roles and responsibilities, and tracking progress. Think of each piece of information as part of the overall project puzzle—you can't successfully navigate through the tasks without understanding how they all fit together. For instance, many smaller tasks may ladder up to a larger task or milestone.

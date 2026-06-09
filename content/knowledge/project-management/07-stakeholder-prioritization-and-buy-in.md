@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/07-stakeholder-prioritization-and-buy-in
 ---
 
-# Приоритизация заинтересованных сторон и получение их поддержки (buy-in)
-
 In this lesson, you are learning to complete a stakeholder analysis and explain its significance. Let's focus here on how to prioritize the various types of stakeholders that can exist on a project, generate stakeholder buy-in, and manage their expectations. 
 
 ## **Conducting a stakeholder analysis** 

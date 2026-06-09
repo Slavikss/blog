@@ -12,8 +12,6 @@ aliases:
   - /pm-study/07-strategy-creation
 ---
 
-# Создание стратегии
-
 ### Введение в продуктовую стратегию
 
 >[!Important]

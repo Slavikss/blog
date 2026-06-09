@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/15-budgeting-terms
 ---
 
-# Введение в термины бюджетирования
-
 ## **Cash flow**
 
 **Cash flow** is the inflow and outflow of cash on your project. As a project manager, this is important to understand because you need **funding** (cash into your project) to keep your project running. 

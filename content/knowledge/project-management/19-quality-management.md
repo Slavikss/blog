@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/19-quality-management
 ---
 
-# Основы управления качеством
-
 - **Quality standards** provide requirements, specifications, or guidelines that can be used to ensure that products, processes, or services are fit for achieving the desired outcome. These standards must be met in order for the product, process, or service to be considered successful by the organization and the customer. You will set quality standards with your team and your customer at the beginning of your project. Well-defined standards lead to less rework and schedule delays throughout your project.
     
 - **Quality planning** involves the actions of you or your team to establish and conduct a process for identifying and determining exactly which standards of quality are relevant to the project as a whole and how to satisfy them. During this process, you'll plan the procedures to achieve the quality standards for your project.

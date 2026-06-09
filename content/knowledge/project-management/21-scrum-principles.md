@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/21-scrum-principles
 ---
 
-# Базовые принципы Скрама (Scrum)
-
 ![[assets/Pasted image 20250605220714.png]]
 
 The original Harvard Business Review paper, written by Hirotaka Takeuchi and Ikujiro Nonaka and titled [_The New New Product Development Game_](https://hbr.org/1986/01/the-new-new-product-development-game), introduces Scrum in the chapter “Moving the Scrum downfield.” Throughout the paper, the authors continue to point out which characteristics of a team help to move the Scrum downfield. Those are: 

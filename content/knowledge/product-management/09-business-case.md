@@ -12,8 +12,6 @@ aliases:
   - /pm-study/09-business-case
 ---
 
-# Расчет бизнес-кейса
-
 ### Финмодель
 - [SAAS financials](https://docs.google.com/spreadsheets/d/1hkp0AFCGAoq-5dB6utheSOMYACbHsRRrAs9dAKBTCug/edit?gid=0#gid=0)
 - [SAAS financials full](https://docs.google.com/spreadsheets/d/1nj0LtyG6Q9HhXk-iaj9-3taT9gwWpF8XnxYahpn--to/edit?gid=268326096#gid=268326096)

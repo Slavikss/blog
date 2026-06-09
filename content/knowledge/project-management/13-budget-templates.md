@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/13-budget-templates
 ---
 
-# Полезные шаблоны бюджета
-
 Budget templates are a useful tool for helping you estimate, track, and maintain a project budget. Below, you will find a few different budget templates that you can use for future projects. Each of these templates is formatted in a digital spreadsheet. 
 
 ![[assets/Pasted image 20250605220541.png]]

@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/16-risk-management-phases
 ---
 
-# Фазы управления рисками
-
 1. **Identify the risk.** The first phase of the risk management process is to identify and define potential project risks with your team. After all, you can only manage risks if you know what they are. 
 
 2. **Analyze the risk**. After identifying the risks, determine their likelihood and potential impact to your project. Serious risks with a high probability of occurring pose the greatest threat.

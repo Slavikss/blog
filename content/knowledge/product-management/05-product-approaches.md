@@ -12,8 +12,6 @@ aliases:
   - /pm-study/05-product-approaches
 ---
 
-# Продуктовые подходы
-
 ### JTBD - Jobs To Be Done
 >[!Note]
 **Главное в Jobs To Be Done—знать и эффективнее выполнять задачи клиентов.**

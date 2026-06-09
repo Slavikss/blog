@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/02-lean-and-six-sigma
 ---
 
-# Методологии бережливого подхода (Lean) и Six Sigma
-
 ## Lean Methodology
 
 > [!info] Definition

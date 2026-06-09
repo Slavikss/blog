@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/22-scrum-guide-2020
 ---
 
-# Руководство по Скраму 2020 (Scrum Guide)
-
 This HTML version of the Scrum Guide is a direct port of the November 2020 version available [as a PDF here](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100).
 
 ## Purpose of the Scrum Guide

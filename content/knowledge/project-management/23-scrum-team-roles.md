@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/23-scrum-team-roles
 ---
 
-# Сильные роли Скрам-команды (Scrum Team)
-
 ## Product Owner
 
 The Product Owner is responsible for maximizing the product’s value and the work of the Development Team. It's a one-person role that brings the customer perspective of the product to a Scrum Team.

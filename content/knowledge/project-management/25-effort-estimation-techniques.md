@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/25-effort-estimation-techniques
 ---
 
-# Техники оценки трудозатрат в Agile
-
 ## **Planning Poker™**
 
 This particular method is well-known and commonly used when Scrum teams have to make effort estimates for a small number of items (under 10). Planning Poker is consensus-based, meaning that everyone has to agree on the number chosen. In this technique, each individual has a deck of cards with numbers from the Fibonacci sequence on them. The Fibonacci sequence is where a number is the sum of the last two numbers (e.g., 0, 1, 1, 2, 3, 5, 8, 13, and so on). 

@@ -12,8 +12,6 @@ aliases:
   - /knowledge/product-management
 ---
 
-# Справочник по продакт-менеджменту (Product Management)
-
 Лонгрид переведен в модульную структуру: теперь это хаб с темами и быстрыми переходами.
 
 Всем привет! Слава снова на связи, вот и настал момент, когда я начал изучать продакт-менеджмент с головой, и вместо того, чтобы делать это в стол, решил внедрить новую для себя технику: конспектирование и шеринг материалов, которые нахожу.
@@ -85,9 +83,9 @@ aliases:
 > [!Tip] Карта развития менеджера роста продукта (Growth Product Manager)
 > ![[assets/Growth product manager map v1.pdf]]
 
-# Конспект📝
+## Конспект📝
 
-## Маршрут чтения
+### Маршрут чтения
 
 1. [[knowledge/product-management/01-who-is-product-manager|Кто такой product manager]]
 2. [[knowledge/product-management/02-product-processes-in-companies|Как отстроены продуктовые процессы в компаниях]]
@@ -104,7 +102,7 @@ aliases:
 13. [[knowledge/product-management/13-startup-ideas-that-fail|Очевидные идеи стартапов, которые не летят]]
 14. [[knowledge/product-management/14-life-as-product-management|Жизнь как управление продуктом]]
 
-## Быстрые ссылки
+### Быстрые ссылки
 
 - [[knowledge/product-management/index|Открыть раздел продакт-менеджмента]]
 - [[project-management-study|Перейти в шпаргалку по проектному менеджменту]]

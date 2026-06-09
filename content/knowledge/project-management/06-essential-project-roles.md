@@ -12,8 +12,6 @@ aliases:
   - /project-management-study/06-essential-project-roles
 ---
 
-# Ключевые роли проекта
-
 ## **The project manager**
 
 Although all team members are responsible for their individual parts of the project, the project manager is responsible for the overall success of the team, and ultimately, the project as a whole. A project manager understands that paying close attention to team dynamics is essential to successfully completing a project, and they use team-building techniques, motivation, influencing, decision-making, and coaching skills, to keep their teams strong. 

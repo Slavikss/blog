@@ -12,8 +12,6 @@ aliases:
   - /pm-study/02-product-processes-in-companies
 ---
 
-# Как отстроены продуктовые процессы в компаниях
-
 ### Avito
 ![[assets/Pasted image 20250121012255.png]]
 - dual track: discovery и delivery Весь процесс продуктовой разработки от идеи до выкатки в продакшн идёт двумя параллельными потоками — discovery и delivery.

@@ -12,8 +12,6 @@ aliases:
   - /pm-study/10-marketing-for-managers
 ---
 
-# Маркетинг для менеджеров
-
 ### GTM Cheatsheets
 ![[assets/Pasted image 20250213160601.png]]![[assets/Pasted image 20250213160622.png]]
 ![[assets/Pasted image 20250213160551.png]]

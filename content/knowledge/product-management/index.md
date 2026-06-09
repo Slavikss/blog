@@ -12,8 +12,6 @@ aliases:
   - /knowledge/product-management/index
 ---
 
-# База знаний по продакт-менеджменту
-
 Структурированный справочник по продакт-менеджменту (Product Management).
 
 1. [[knowledge/product-management/01-who-is-product-manager|Кто такой продакт-менеджер]]
