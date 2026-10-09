@@ -1,17 +1,26 @@
-# Quartz v5
+# slava's words
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Исходники [slava.blog](https://slava.blog) — личного сайта и базы знаний
+Вячеслава Гуча. Сайт работает на Quartz v5, контент хранится в Markdown.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+## Локальный запуск
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Нужны Node.js 22+ и npm 10.9.2+.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+```bash
+npm ci
+npx quartz build --serve
+```
 
-## Sponsors
+Проверки перед публикацией:
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+```bash
+npm run check
+npm test
+npx quartz build
+```
+
+- Контент: `content/`
+- Конфигурация и layout: `quartz.config.yaml`
+- Локальное SEO-расширение: `site-seo.tsx`
+- Деплой: push в `v5` запускает GitHub Pages workflow

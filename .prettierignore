@@ -1,3 +1,7 @@
 public
 node_modules
 .quartz-cache
+
+# Editorial content is intentionally hand-formatted Markdown.
+content
+CLAUDE.md
